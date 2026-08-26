@@ -7,6 +7,59 @@ title: "Scripture Index"
 _361 sermons indexed._
 
 ## Genesis
+- **Genesis 1:1**
+    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
+- **Genesis 1:1-2:3**
+    - In the Beginning · 2021-05-24
+- **Genesis 1:1-5**
+    - [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]] · 2021-05-30
+    - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
+    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
+    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
+    - [[covenant-umc/2025/the-gift-of-the-trinity|The Gift of the Trinity]] · 2025-08-31
+    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
+    - [[covenant-umc/2026/three-whats|Three Whats?]] · 2026-05-31
+- **Genesis 1:6-13**
+    - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
+- **Genesis 1:14-23**
+    - [[covenant-umc/2023/fruitfulness|Fruitfulness]] · 2023-09-24
+- **Genesis 1:24-28**
+    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
+- **Genesis 1:26**
+    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
+- **Genesis 1:28**
+    - [[bee-creek-umc/2021/come-and-see|Come and See]] · 2021-09-12
+- **Genesis 1:29-2:4**
+    - [[covenant-umc/2023/the-voice-of-sabbath|The Voice of Sabbath]] · 2023-10-08
+- **Genesis 2**
+    - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
+    - [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]] · 2020-10-14
+- **Genesis 2:4-9**
+    - [[covenant-umc/2023/anoint-the-dust|Anoint the Dust]] · 2023-10-15
+- **Genesis 2:7**
+    - [[bee-creek-umc/2021/reset-your-soul|Reset Your Soul]] · 2021-01-17
+- **Genesis 2:10-17**
+    - [[covenant-umc/2023/come-and-see|Come and See]] · 2023-10-22
+- **Genesis 2:15-17**
+    - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]] · 2026-02-22
+- **Genesis 2:16-17**
+    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
+- **Genesis 2:19-20**
+    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
+- **Genesis 3**
+    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
+- **Genesis 4:1-16**
+    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
+- **Genesis 4:1-9**
+    - [[bee-creek-umc/2022/responsibility|Responsibility]] · 2022-08-28
+- **Genesis 4:9**
+    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
+- **Genesis 6:1-8**
+    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
+- **Genesis 7:1-5**
+    - [[bee-creek-umc/2021/big-boat|Big Boat]] · 2021-06-13
+- **Genesis 9:3**
+    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
 - **Genesis 11:1-9**
     - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
     - [[covenant-umc/2025/show-us-the-father|Show Us the Father]] · 2025-06-08
@@ -29,33 +82,6 @@ _361 sermons indexed._
 - **Genesis 18:1-15**
     - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
     - [[covenant-umc/2026/election-not-selection|Election, Not Selection]] · 2026-06-14
-- **Genesis 1:1**
-    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
-- **Genesis 1:1-2:3**
-    - In the Beginning · 2021-05-24
-- **Genesis 1:1-5**
-    - [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]] · 2021-05-30
-    - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
-    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
-    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
-    - [[covenant-umc/2025/the-gift-of-the-trinity|The Gift of the Trinity]] · 2025-08-31
-    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
-    - [[covenant-umc/2026/three-whats|Three Whats?]] · 2026-05-31
-- **Genesis 1:14-23**
-    - [[covenant-umc/2023/fruitfulness|Fruitfulness]] · 2023-09-24
-- **Genesis 1:24-28**
-    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
-- **Genesis 1:26**
-    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
-- **Genesis 1:28**
-    - [[bee-creek-umc/2021/come-and-see|Come and See]] · 2021-09-12
-- **Genesis 1:29-2:4**
-    - [[covenant-umc/2023/the-voice-of-sabbath|The Voice of Sabbath]] · 2023-10-08
-- **Genesis 1:6-13**
-    - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
-- **Genesis 2**
-    - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
-    - [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]] · 2020-10-14
 - **Genesis 21:1-7**
     - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]] · 2021-06-20
 - **Genesis 21:17-21**
@@ -72,20 +98,6 @@ _361 sermons indexed._
     - Jacob's Ladder · 2026-07-19
 - **Genesis 29:15-28**
     - Faith the Size of a Mustard Seed · 2026-07-26
-- **Genesis 2:10-17**
-    - [[covenant-umc/2023/come-and-see|Come and See]] · 2023-10-22
-- **Genesis 2:15-17**
-    - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]] · 2026-02-22
-- **Genesis 2:16-17**
-    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
-- **Genesis 2:19-20**
-    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
-- **Genesis 2:4-9**
-    - [[covenant-umc/2023/anoint-the-dust|Anoint the Dust]] · 2023-10-15
-- **Genesis 2:7**
-    - [[bee-creek-umc/2021/reset-your-soul|Reset Your Soul]] · 2021-01-17
-- **Genesis 3**
-    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
 - **Genesis 32:22-31**
     - [[covenant-umc/2026/jacob-s-grappling-technique|Jacob's Grappling Technique]] · 2026-08-02
 - **Genesis 32:22-32**
@@ -96,36 +108,33 @@ _361 sermons indexed._
     - A Foundation of Water · 2026-08-09
 - **Genesis 45:1-9**
     - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
-- **Genesis 4:1-16**
-    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
-- **Genesis 4:1-9**
-    - [[bee-creek-umc/2022/responsibility|Responsibility]] · 2022-08-28
-- **Genesis 4:9**
-    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
-- **Genesis 6:1-8**
-    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
-- **Genesis 7:1-5**
-    - [[bee-creek-umc/2021/big-boat|Big Boat]] · 2021-06-13
-- **Genesis 9:3**
-    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
 
 ## Exodus
-- **Exodus 10:17**
-    - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
-- **Exodus 12**
-    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
-- **Exodus 16:13-20**
-    - [[bee-creek-umc/2021/big-boat|Big Boat]] · 2021-06-13
-- **Exodus 16:4-30**
-    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
-- **Exodus 17:1-7**
-    - [[covenant-umc/2026/give-me-water|Give Me Water]] · 2026-03-08
-- **Exodus 19:5-6**
-    - [[bee-creek-umc/2023/i-believe-in-the-holy-catholic-church|I Believe in the Holy Catholic Church]] · 2023-01-08
 - **Exodus 1:8-10**
     - [[covenant-umc/2026/who-do-you-say-that-i-am|Who Do You Say That I Am?]] · 2026-08-23
 - **Exodus 1:8-22**
     - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
+- **Exodus 2:1-10**
+    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
+- **Exodus 3:1-6**
+    - [[bee-creek-umc/2023/i-believe-in-the-communion-of-the-saints|I Believe in the Communion of the Saints]] · 2023-01-15
+    - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
+- **Exodus 3:5**
+    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
+- **Exodus 3:14**
+    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
+- **Exodus 10:17**
+    - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
+- **Exodus 12**
+    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
+- **Exodus 16:4-30**
+    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
+- **Exodus 16:13-20**
+    - [[bee-creek-umc/2021/big-boat|Big Boat]] · 2021-06-13
+- **Exodus 17:1-7**
+    - [[covenant-umc/2026/give-me-water|Give Me Water]] · 2026-03-08
+- **Exodus 19:5-6**
+    - [[bee-creek-umc/2023/i-believe-in-the-holy-catholic-church|I Believe in the Holy Catholic Church]] · 2023-01-08
 - **Exodus 20:1-17**
     - [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]] · 2025-08-03
     - [[covenant-umc/2026/maundy-thursday|Maundy Thursday]] · 2026-04-02
@@ -137,26 +146,21 @@ _361 sermons indexed._
     - [[covenant-umc/2026/shining|Shining]] · 2026-02-15
 - **Exodus 26**
     - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
-- **Exodus 2:1-10**
-    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
 - **Exodus 32**
     - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
     - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
 - **Exodus 32:1-4**
     - [[covenant-umc/2024/whose-name|Whose Name?]] · 2024-11-17
-- **Exodus 3:1-6**
-    - [[bee-creek-umc/2023/i-believe-in-the-communion-of-the-saints|I Believe in the Communion of the Saints]] · 2023-01-15
-    - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
-- **Exodus 3:14**
-    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
-- **Exodus 3:5**
-    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
 
 ## Leviticus
+- **Leviticus 8:3**
+    - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
 - **Leviticus 16:11-13**
     - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
 - **Leviticus 16:16-17**
     - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
+- **Leviticus 19:9-10**
+    - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
 - **Leviticus 19:18**
     - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
     - [[bee-creek-umc/2023/maundy-thursday|Maundy Thursday]] · 2023-04-06
@@ -164,12 +168,8 @@ _361 sermons indexed._
     - [[covenant-umc/2024/maundy-thursday|Maundy Thursday]] · 2024-03-28
     - [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]] · 2025-08-03
     - [[covenant-umc/2026/maundy-thursday|Maundy Thursday]] · 2026-04-02
-- **Leviticus 19:9-10**
-    - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
 - **Leviticus 25**
     - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]] · 2021-10-31
-- **Leviticus 8:3**
-    - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
 
 ## Numbers
 - **Numbers 21:4-9**
@@ -181,10 +181,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/reset-your-house|Reset Your House]] · 2021-01-03
 
 ## Deuteronomy
-- **Deuteronomy 21:23**
-    - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]] · 2022-11-13
-- **Deuteronomy 32:11**
-    - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
 - **Deuteronomy 4:10**
     - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
 - **Deuteronomy 6:4-5**
@@ -195,19 +191,20 @@ _361 sermons indexed._
     - [[covenant-umc/2026/maundy-thursday|Maundy Thursday]] · 2026-04-02
 - **Deuteronomy 6:5**
     - [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]] · 2025-08-03
+- **Deuteronomy 21:23**
+    - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]] · 2022-11-13
+- **Deuteronomy 32:11**
+    - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
 
 ## Joshua
-- **Joshua 13:15-20**
-    - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
 - **Joshua 1:1-9**
     - [[bee-creek-umc/2021/the-church-in-the-past|The Church in the Past]] · 2021-10-17
+- **Joshua 13:15-20**
+    - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
 - **Joshua 24:14-15**
     - [[covenant-umc/2024/follow-me|Follow Me]] · 2024-10-06
 
 ## Judges
-- **Judges 12:5-6**
-    - [[bee-creek-umc/2022/who-was-conceived-from-the-holy-spirit-and-born-of-the-virgin-mary|Who was conceived from the Holy Spirit and born of the Virgin Mary]] · 2022-10-30
-    - [[covenant-umc/2025/symbols-and-signs|Symbols and Signs]] · 2025-11-16
 - **Judges 4:1-16**
     - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
 - **Judges 5:1-2**
@@ -217,18 +214,29 @@ _361 sermons indexed._
 - **Judges 7:1-25**
     - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
     - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
+- **Judges 12:5-6**
+    - [[bee-creek-umc/2022/who-was-conceived-from-the-holy-spirit-and-born-of-the-virgin-mary|Who was conceived from the Holy Spirit and born of the Virgin Mary]] · 2022-10-30
+    - [[covenant-umc/2025/symbols-and-signs|Symbols and Signs]] · 2025-11-16
 
 ## Ruth
-- **Ruth 1:12-18**
-    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
 - **Ruth 1:8-17**
     - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
+- **Ruth 1:12-18**
+    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
 - **Ruth 4**
     - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
 - **Ruth 4:14-17**
     - [[covenant-umc/2024/whose-name|Whose Name?]] · 2024-11-17
 
 ## 1 Samuel
+- **1 Samuel 2:1**
+    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
+- **1 Samuel 2:1-10**
+    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
+- **1 Samuel 3:1-10**
+    - [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]] · 2024-06-02
+- **1 Samuel 8:4-5**
+    - [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]] · 2024-07-28
 - **1 Samuel 16:1-13**
     - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
     - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
@@ -241,20 +249,16 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
 - **1 Samuel 18:1-4**
     - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
-- **1 Samuel 18:25-27**
-    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
 - **1 Samuel 18:7**
     - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
-- **1 Samuel 2:1**
-    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
-- **1 Samuel 2:1-10**
-    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
-- **1 Samuel 3:1-10**
-    - [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]] · 2024-06-02
-- **1 Samuel 8:4-5**
-    - [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]] · 2024-07-28
+- **1 Samuel 18:25-27**
+    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
 
 ## 1 Kings
+- **1 Kings 3:16-28**
+    - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]] · 2022-11-13
+- **1 Kings 6**
+    - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
 - **1 Kings 15:34**
     - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
 - **1 Kings 16:25-26**
@@ -265,14 +269,8 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]] · 2021-06-20
 - **1 Kings 22:52**
     - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
-- **1 Kings 3:16-28**
-    - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]] · 2022-11-13
-- **1 Kings 6**
-    - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
 
 ## 2 Kings
-- **2 Kings 22:8**
-    - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
 - **2 Kings 2:1-2, 6-14**
     - [[covenant-umc/2026/ordinary-time|Ordinary Time]] · 2026-06-28
 - **2 Kings 5:1-14**
@@ -283,6 +281,8 @@ _361 sermons indexed._
     - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
 - **2 Kings 8:27**
     - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
+- **2 Kings 22:8**
+    - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
 
 ## 2 Chronicles
 - **2 Chronicles 12:14**
@@ -293,9 +293,9 @@ _361 sermons indexed._
     - [[covenant-umc/2026/come-and-see-the-trouble-come-and-start-rebuilding|Come and See the Trouble — Come and Start Rebuilding]] · 2026-04-12
 - **Nehemiah 3:1-12**
     - [[covenant-umc/2026/what-s-next-builders-and-names|What's Next? (Builders and Names)]] · 2026-04-19
-- **Nehemiah 4:15-20**
-    - [[covenant-umc/2026/the-gate|The Gate]] · 2026-04-26
 - **Nehemiah 4:6-9**
+    - [[covenant-umc/2026/the-gate|The Gate]] · 2026-04-26
+- **Nehemiah 4:15-20**
     - [[covenant-umc/2026/the-gate|The Gate]] · 2026-04-26
 - **Nehemiah 8:8-10**
     - [[covenant-umc/2025/the-calling-and-the-called|The Calling and the Called]] · 2025-01-26
@@ -307,12 +307,12 @@ _361 sermons indexed._
     - [[covenant-umc/2024/like-a-child|Like a Child]] · 2024-10-06
 - **Job 1:6-12**
     - Jacob's Ladder · 2026-07-19
+- **Job 2:1-10**
+    - [[covenant-umc/2024/like-a-child|Like a Child]] · 2024-10-06
 - **Job 23:1-9**
     - [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]] · 2024-10-13
 - **Job 23:16-17**
     - [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]] · 2024-10-13
-- **Job 2:1-10**
-    - [[covenant-umc/2024/like-a-child|Like a Child]] · 2024-10-06
 - **Job 38:1**
     - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
 - **Job 38:1-7**
@@ -322,6 +322,66 @@ _361 sermons indexed._
     - [[covenant-umc/2023/do-or-do-not|Do Or Do Not]] · 2023-11-19
 
 ## Psalm
+- **Psalm 1:1-6**
+    - [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]] · 2024-05-12
+- **Psalm 2:7-9**
+    - [[bee-creek-umc/2022/i-believe-in-jesus-christ-his-only-son-our-lord|I Believe in Jesus Christ, His Only Son, Our Lord]] · 2022-10-16
+- **Psalm 8:3**
+    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
+- **Psalm 13:1**
+    - [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]] · 2021-11-07
+- **Psalm 14:1-3**
+    - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]] · 2025-12-28
+- **Psalm 14:1-7**
+    - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]] · 2021-11-14
+- **Psalm 16:9-10**
+    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
+- **Psalm 20:1-2**
+    - [[covenant-umc/2025/prayer|Prayer]] · 2025-09-21
+- **Psalm 22:1**
+    - [[bee-creek-umc/2020/the-race|The Race]] · 2020-09-15
+    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
+- **Psalm 23:1-3**
+    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
+- **Psalm 23:1-6**
+    - A Service of Death and Resurrection (Funeral/Memorial Template) 
+    - Caroline Miller (Memorial Service) · 2022-12-16
+- **Psalm 27:1**
+    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
+    - [[covenant-umc/2024/2nd-sunday-in-lent-taking-up-the-cross-and-costly-grace|2nd Sunday in Lent: Taking Up the Cross and Costly Grace]] · 2024-02-25
+- **Psalm 27:1-14**
+    - [[bee-creek-umc/2022/don-t-panic|Don't Panic]] · 2022-06-19
+- **Psalm 34:1-5**
+    - [[covenant-umc/2023/god-s-song-of-love|God's Song of Love]] · 2023-11-06
+- **Psalm 46:1-3**
+    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
+- **Psalm 46:10**
+    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
+- **Psalm 48:1-3**
+    - [[covenant-umc/2024/subterranean-hometown-blues|Subterranean Hometown Blues]] · 2024-07-07
+- **Psalm 68:18-20**
+    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
+- **Psalm 69:1**
+    - [[bee-creek-umc/2020/the-race|The Race]] · 2020-09-15
+- **Psalm 69:1-3**
+    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
+    - [[covenant-umc/2024/not-easy-to-watch|Not Easy to Watch]] · 2024-07-14
+- **Psalm 71:1-4**
+    - [[bee-creek-umc/2022/rescue|Rescue]] · 2022-07-17
+- **Psalm 72:11**
+    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
+- **Psalm 78:1-4**
+    - [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]] · 2023-11-13
+- **Psalm 85:8-13**
+    - [[covenant-umc/2023/what-does-god-ask-of-us|What Does God Ask of Us?]] · 2023-08-13
+- **Psalm 88:13-18**
+    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
+- **Psalm 90:4**
+    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
+- **Psalm 94:1-7**
+    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
+- **Psalm 95:1-7**
+    - [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]] · 2023-11-26
 - **Psalm 115:1**
     - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
 - **Psalm 118:1-2**
@@ -352,76 +412,16 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/shelter|Shelter]] · 2022-06-26
 - **Psalm 138**
     - [[covenant-umc/2024/binding-the-strongman|Binding the Strongman]] · 2024-06-09
-- **Psalm 13:1**
-    - [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]] · 2021-11-07
 - **Psalm 143:10-11**
     - [[bee-creek-umc/2023/credo-i-believe-in-the-holy-spirit|Credo: I Believe in the Holy Spirit]] · 2023-01-01
-- **Psalm 145:13-14**
-    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
 - **Psalm 145:8-21**
     - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
+- **Psalm 145:13-14**
+    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
 - **Psalm 149:1-9**
     - [[covenant-umc/2025/what-we-remember|What We Remember]] · 2025-11-02
-- **Psalm 14:1-3**
-    - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]] · 2025-12-28
-- **Psalm 14:1-7**
-    - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]] · 2021-11-14
 - **Psalm 150**
     - [[covenant-umc/2025/praise|Praise]] · 2025-09-28
-- **Psalm 16:9-10**
-    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
-- **Psalm 1:1-6**
-    - [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]] · 2024-05-12
-- **Psalm 20:1-2**
-    - [[covenant-umc/2025/prayer|Prayer]] · 2025-09-21
-- **Psalm 22:1**
-    - [[bee-creek-umc/2020/the-race|The Race]] · 2020-09-15
-    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
-- **Psalm 23:1-3**
-    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
-- **Psalm 23:1-6**
-    - A Service of Death and Resurrection (Funeral/Memorial Template) 
-    - Caroline Miller (Memorial Service) · 2022-12-16
-- **Psalm 27:1**
-    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
-    - [[covenant-umc/2024/2nd-sunday-in-lent-taking-up-the-cross-and-costly-grace|2nd Sunday in Lent: Taking Up the Cross and Costly Grace]] · 2024-02-25
-- **Psalm 27:1-14**
-    - [[bee-creek-umc/2022/don-t-panic|Don't Panic]] · 2022-06-19
-- **Psalm 2:7-9**
-    - [[bee-creek-umc/2022/i-believe-in-jesus-christ-his-only-son-our-lord|I Believe in Jesus Christ, His Only Son, Our Lord]] · 2022-10-16
-- **Psalm 34:1-5**
-    - [[covenant-umc/2023/god-s-song-of-love|God's Song of Love]] · 2023-11-06
-- **Psalm 46:1-3**
-    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
-- **Psalm 46:10**
-    - [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]] · 2021-09-26
-- **Psalm 48:1-3**
-    - [[covenant-umc/2024/subterranean-hometown-blues|Subterranean Hometown Blues]] · 2024-07-07
-- **Psalm 68:18-20**
-    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
-- **Psalm 69:1**
-    - [[bee-creek-umc/2020/the-race|The Race]] · 2020-09-15
-- **Psalm 69:1-3**
-    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
-    - [[covenant-umc/2024/not-easy-to-watch|Not Easy to Watch]] · 2024-07-14
-- **Psalm 71:1-4**
-    - [[bee-creek-umc/2022/rescue|Rescue]] · 2022-07-17
-- **Psalm 72:11**
-    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
-- **Psalm 78:1-4**
-    - [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]] · 2023-11-13
-- **Psalm 85:8-13**
-    - [[covenant-umc/2023/what-does-god-ask-of-us|What Does God Ask of Us?]] · 2023-08-13
-- **Psalm 88:13-18**
-    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
-- **Psalm 8:3**
-    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
-- **Psalm 90:4**
-    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
-- **Psalm 94:1-7**
-    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
-- **Psalm 95:1-7**
-    - [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]] · 2023-11-26
 
 ## Proverbs
 - **Proverbs 8:1-4**
@@ -444,6 +444,32 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
 
 ## Isaiah
+- **Isaiah 2:1-5**
+    - [[covenant-umc/2025/mercy-revealed|Mercy Revealed]] · 2025-11-30
+- **Isaiah 5:1-5**
+    - [[covenant-umc/2025/the-parables|The Parables]] · 2025-08-17
+- **Isaiah 6:1-3**
+    - [[covenant-umc/2024/trinity-sunday|Trinity Sunday]] · 2024-05-26
+- **Isaiah 6:9**
+    - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]] · 2021-10-31
+- **Isaiah 7:10-16**
+    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
+- **Isaiah 7:13-14**
+    - [[bee-creek-umc/2022/who-was-conceived-from-the-holy-spirit-and-born-of-the-virgin-mary|Who was conceived from the Holy Spirit and born of the Virgin Mary]] · 2022-10-30
+- **Isaiah 9:1**
+    - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
+- **Isaiah 9:2**
+    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
+    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
+- **Isaiah 9:2-4**
+    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
+    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
+- **Isaiah 9:2-7**
+    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
+- **Isaiah 9:6**
+    - [[bee-creek-umc/2020/the-four-questions-who-is-coming|The Four Questions: Who Is Coming?]] · 2020-11-29
+    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
+    - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 - **Isaiah 10:1-2**
     - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 - **Isaiah 11:1-6**
@@ -470,8 +496,6 @@ _361 sermons indexed._
     - Jacob's Ladder · 2026-07-19
 - **Isaiah 29:13-16**
     - [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]] · 2024-09-01
-- **Isaiah 2:1-5**
-    - [[covenant-umc/2025/mercy-revealed|Mercy Revealed]] · 2025-11-30
 - **Isaiah 32:1-5**
     - [[bee-creek-umc/2022/shelter|Shelter]] · 2022-06-26
 - **Isaiah 35:4-7**
@@ -482,13 +506,13 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]] · 2022-01-22
 - **Isaiah 40:1-8**
     - A Service of Death and Resurrection (Funeral/Memorial Template) 
-- **Isaiah 40:28-31**
-    - A Service of Death and Resurrection (Funeral/Memorial Template) 
-    - A Service of Death and Resurrection for David Bates · 2023-01-22
 - **Isaiah 40:3-4**
     - [[bee-creek-umc/2020/the-four-questions-who-is-coming|The Four Questions: Who Is Coming?]] · 2020-11-29
 - **Isaiah 40:3-5**
     - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
+- **Isaiah 40:28-31**
+    - A Service of Death and Resurrection (Funeral/Memorial Template) 
+    - A Service of Death and Resurrection for David Bates · 2023-01-22
 - **Isaiah 40:31**
     - [[covenant-umc/2025/trouble-in-river-city|Trouble in River City]] · 2025-05-25
 - **Isaiah 42:1-4**
@@ -513,14 +537,12 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]] · 2022-11-13
 - **Isaiah 56:1, 56:6-8**
     - [[covenant-umc/2023/who-am-i|Who Am I?]] · 2023-08-20
-- **Isaiah 58:10-11**
-    - [[covenant-umc/2025/the-gift-of-the-trinity|The Gift of the Trinity]] · 2025-08-31
 - **Isaiah 58:2-11**
     - [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]] · 2021-02-17
 - **Isaiah 58:5-8**
     - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
-- **Isaiah 5:1-5**
-    - [[covenant-umc/2025/the-parables|The Parables]] · 2025-08-17
+- **Isaiah 58:10-11**
+    - [[covenant-umc/2025/the-gift-of-the-trinity|The Gift of the Trinity]] · 2025-08-31
 - **Isaiah 60:1-2**
     - [[covenant-umc/2024/waiting-on-a-miracle|Waiting on a Miracle]] · 2024-12-15
 - **Isaiah 60:1-6**
@@ -536,35 +558,16 @@ _361 sermons indexed._
     - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]] · 2025-12-28
 - **Isaiah 66:13**
     - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
-- **Isaiah 6:1-3**
-    - [[covenant-umc/2024/trinity-sunday|Trinity Sunday]] · 2024-05-26
-- **Isaiah 6:9**
-    - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]] · 2021-10-31
-- **Isaiah 7:10-16**
-    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
-- **Isaiah 7:13-14**
-    - [[bee-creek-umc/2022/who-was-conceived-from-the-holy-spirit-and-born-of-the-virgin-mary|Who was conceived from the Holy Spirit and born of the Virgin Mary]] · 2022-10-30
-- **Isaiah 9:1**
-    - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
-- **Isaiah 9:2**
-    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
-    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
-- **Isaiah 9:2-4**
-    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
-    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
-- **Isaiah 9:2-7**
-    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
-- **Isaiah 9:6**
-    - [[bee-creek-umc/2020/the-four-questions-who-is-coming|The Four Questions: Who Is Coming?]] · 2020-11-29
-    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
-    - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 
 ## Jeremiah
+- **Jeremiah 1:4-10**
+    - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
+    - [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]] · 2020-10-04
 - **Jeremiah 15:19-21**
     - [[covenant-umc/2023/who-am-i-in-christ|Who am I in Christ?]] · 2023-09-03
-- **Jeremiah 17:13**
-    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
 - **Jeremiah 17:5-7**
+    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
+- **Jeremiah 17:13**
     - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
 - **Jeremiah 18**
     - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
@@ -574,14 +577,11 @@ _361 sermons indexed._
 - **Jeremiah 18:1-6**
     - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
     - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
-- **Jeremiah 1:4-10**
-    - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
-    - [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]] · 2020-10-04
+- **Jeremiah 29:4-7**
+    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
 - **Jeremiah 29:11**
     - Rachel and Tanner · 2023-05-04
     - [[bee-creek-umc/2023/pentecost|Pentecost]] · 2023-05-28
-- **Jeremiah 29:4-7**
-    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
 - **Jeremiah 31:31-34**
     - [[bee-creek-umc/2022/freedom-a-new-covenant-for-a-new-year|Freedom: A New Covenant for a New Year]] · 2022-01-02
 - **Jeremiah 33:14-16**
@@ -590,16 +590,16 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 
 ## Ezekiel
-- **Ezekiel 17:22-24**
-    - [[covenant-umc/2024/spicy-mustard|Spicy Mustard]] · 2024-06-16
-- **Ezekiel 18:13**
-    - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
 - **Ezekiel 1:5-10**
     - [[bee-creek-umc/2022/who-sits-upon-the-throne|Who Sits Upon the Throne]] · 2022-02-13
 - **Ezekiel 1:5-6**
     - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]] · 2021-04-04
 - **Ezekiel 1:5-7**
     - [[bee-creek-umc/2021/christmas-eve-why-now|Christmas Eve: Why Now?]] · 2021-12-24
+- **Ezekiel 17:22-24**
+    - [[covenant-umc/2024/spicy-mustard|Spicy Mustard]] · 2024-06-16
+- **Ezekiel 18:13**
+    - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
 - **Ezekiel 34:2-4**
     - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 - **Ezekiel 37:1-14**
@@ -608,8 +608,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]] · 2022-12-04
 
 ## Hosea
-- **Hosea 12:6**
-    - [[covenant-umc/2024/how-we-fill-our-waiting|How We Fill Our Waiting]] · 2024-12-01
 - **Hosea 1:2-10**
     - Ordinary Time (Hosea 1 & Luke 11) · 2026-07-26
 - **Hosea 4:1-2**
@@ -618,6 +616,8 @@ _361 sermons indexed._
     - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
     - [[bee-creek-umc/2022/fragments|Fragments]] · 2022-03-27
     - [[bee-creek-umc/2023/field-hospital|Field Hospital]] · 2023-06-11
+- **Hosea 12:6**
+    - [[covenant-umc/2024/how-we-fill-our-waiting|How We Fill Our Waiting]] · 2024-12-01
 
 ## Joel
 - **Joel 2:1-2**
@@ -628,10 +628,10 @@ _361 sermons indexed._
     - [[covenant-umc/2026/a-burning-sensation-summit-fever-a-pentecost-sermon|A Burning Sensation (Summit Fever: A Pentecost Sermon)]] · 2026-05-24
 
 ## Amos
-- **Amos 7:14-17**
-    - [[covenant-umc/2025/ask-me-anything-2|Ask Me Anything]] · 2025-07-13
 - **Amos 7:7-17**
     - Ordinary Time · 2026-07-12
+- **Amos 7:14-17**
+    - [[covenant-umc/2025/ask-me-anything-2|Ask Me Anything]] · 2025-07-13
 - **Amos 8:1-12**
     - Ordinary Time · 2026-07-19
 - **Amos 8:9-12**
@@ -669,6 +669,177 @@ _361 sermons indexed._
     - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
 
 ## Matthew
+- **Matthew 1:1-6**
+    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
+- **Matthew 1:18-25**
+    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
+- **Matthew 2:1-12**
+    - [[bee-creek-umc/2020/half-a-world-away|Half a World Away]] · 2020-12-23
+    - [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]] · 2021-01-03
+    - [[bee-creek-umc/2021/reset-your-house|Reset Your House]] · 2021-01-03
+    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
+    - [[bee-creek-umc/2021/the-gift|The Gift]] · 2021-12-19
+    - [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]] · 2024-01-07
+- **Matthew 2:1-2**
+    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
+- **Matthew 2:1-6**
+    - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
+- **Matthew 2:1-8**
+    - [[bee-creek-umc/2021/rivals|Rivals]] · 2021-12-12
+- **Matthew 2:13-23**
+    - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]] · 2025-12-28
+- **Matthew 3:1-12**
+    - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
+- **Matthew 3:2**
+    - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]] · 2021-08-15
+- **Matthew 3:13-17**
+    - [[covenant-umc/2026/waters-above-waters-below|Waters Above, Waters Below]] · 2026-01-11
+    - Baptism of the Lord · 2027-01-10
+- **Matthew 4:1-11**
+    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
+    - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]] · 2026-02-22
+- **Matthew 4:4**
+    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
+    - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
+- **Matthew 4:12-16**
+    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
+    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
+- **Matthew 4:18-19**
+    - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it-2|What Are We Going to Do About It?]] · 2020-12-20
+- **Matthew 4:18-20**
+    - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it|What are we going to do about it?]] · 2020-12-20
+    - [[bee-creek-umc/2021/follow-me|Follow Me]] · 2021-10-06
+    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
+- **Matthew 5**
+    - [[bee-creek-umc/2022/the-cost|The Cost]] · 2022-09-04
+- **Matthew 5:1-12**
+    - [[covenant-umc/2023/god-s-song-of-love|God's Song of Love]] · 2023-11-06
+    - [[covenant-umc/2026/justice|Justice]] · 2026-02-01
+- **Matthew 5:1-7:29**
+    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
+- **Matthew 5:3**
+    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
+- **Matthew 5:3-10**
+    - [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]] · 2021-11-07
+- **Matthew 5:3-12**
+    - [[bee-creek-umc/2020/saints-and-sinners|Saints and Sinners]] · 2020-11-01
+- **Matthew 5:3-4**
+    - [[bee-creek-umc/2022/the-chassis|The Chassis]] · 2022-05-01
+- **Matthew 5:3-5**
+    - [[bee-creek-umc/2022/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2022-04-17
+    - [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2024-03-31
+- **Matthew 5:3-6**
+    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
+- **Matthew 5:3-9**
+    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
+- **Matthew 5:4**
+    - [[covenant-umc/2024/jesus-wept|Jesus Wept]] · 2024-11-03
+    - [[covenant-umc/2025/what-we-remember|What We Remember]] · 2025-11-02
+- **Matthew 5:5**
+    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
+    - [[bee-creek-umc/2023/holy-conferencing|Holy Conferencing]] · 2023-05-07
+- **Matthew 5:8**
+    - [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]] · 2023-11-26
+- **Matthew 5:10-11**
+    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
+- **Matthew 5:13-20**
+    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
+- **Matthew 5:17-18**
+    - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
+- **Matthew 5:18**
+    - [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]] · 2025-08-03
+- **Matthew 5:21-22**
+    - [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]] · 2023-11-13
+- **Matthew 5:21-25**
+    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
+- **Matthew 5:23-24**
+    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
+- **Matthew 5:27-28**
+    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
+- **Matthew 5:45**
+    - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
+- **Matthew 5:48**
+    - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
+    - [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]] · 2020-10-14
+    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
+    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
+    - [[covenant-umc/2023/come-to-me-and-find-rest|Come to Me and Find Rest]] · 2023-07-09
+    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
+- **Matthew 6:1-21**
+    - [[bee-creek-umc/2022/ash-wednesday|Ash Wednesday]] · 2022-03-02
+    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
+    - [[covenant-umc/2024/ash-wednesday|Ash Wednesday]] · 2024-02-14
+    - [[covenant-umc/2025/ash-wednesday|Ash Wednesday]] · 2025-03-05
+- **Matthew 6:1-6**
+    - [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]] · 2021-02-17
+- **Matthew 6:3**
+    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
+- **Matthew 6:9**
+    - [[bee-creek-umc/2023/our-father-who-art-in-heaven-hallowed-be-thy-name|Our Father, Who Art in Heaven, Hallowed Be Thy Name]] · 2023-02-26
+- **Matthew 6:9-13**
+    - [[bee-creek-umc/2021/future-sermon-notes-on-thomas-and-prayer|Future Sermon Notes: On Thomas and Prayer]] 
+    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
+- **Matthew 6:10**
+    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
+- **Matthew 6:11**
+    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
+- **Matthew 6:12**
+    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
+- **Matthew 6:13**
+    - [[bee-creek-umc/2023/lead-us-not-into-temptation|Lead Us Not into Temptation]] · 2023-03-26
+- **Matthew 6:16-18**
+    - [[covenant-umc/2024/first-attempt-temptation-of-jesus|First Attempt (Temptation of Jesus)]] · 2024-02-18
+- **Matthew 6:16-21**
+    - [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]] · 2021-02-17
+    - [[covenant-umc/2026/ash-wednesday|Ash Wednesday]] · 2026-02-18
+- **Matthew 6:19-21**
+    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
+- **Matthew 6:21**
+    - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
+    - [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]] · 2020-10-04
+    - [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]] · 2021-01-03
+    - [[bee-creek-umc/2021/reset-your-house|Reset Your House]] · 2021-01-03
+    - [[bee-creek-umc/2022/freedom-a-new-covenant-for-a-new-year|Freedom: A New Covenant for a New Year]] · 2022-01-02
+- **Matthew 6:25-33**
+    - [[covenant-umc/2024/how-we-fill-our-waiting|How We Fill Our Waiting]] · 2024-12-01
+- **Matthew 6:34**
+    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
+    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
+    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
+- **Matthew 7:1-2**
+    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
+- **Matthew 7:1-5**
+    - [[covenant-umc/2025/a-sign|A Sign]] · 2025-03-23
+- **Matthew 7:3**
+    - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]] · 2021-03-14
+- **Matthew 7:3-5**
+    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
+    - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]] · 2021-11-14
+    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
+- **Matthew 7:7**
+    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
+    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
+- **Matthew 7:13-14**
+    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
+    - [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]] · 2025-10-19
+- **Matthew 7:24-27**
+    - [[bee-creek-umc/2022/the-chassis|The Chassis]] · 2022-05-01
+    - [[covenant-umc/2025/a-new-commandment|A New Commandment]] · 2025-05-18
+    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
+    - A Foundation of Water · 2026-08-09
+- **Matthew 8:8**
+    - [[covenant-umc/2025/communion|Communion]] · 2025-10-05
+- **Matthew 9:9**
+    - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]] · 2021-05-02
+- **Matthew 9:9-13**
+    - [[bee-creek-umc/2023/field-hospital|Field Hospital]] · 2023-06-11
+    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
+- **Matthew 9:11-13**
+    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
+- **Matthew 9:18-26**
+    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
+- **Matthew 9:35-38**
+    - [[covenant-umc/2026/election-not-selection|Election, Not Selection]] · 2026-06-14
 - **Matthew 10:26-31**
     - Do Not Be Afraid: God Hears in the Wilderness · 2026-06-21
 - **Matthew 10:34-39**
@@ -677,12 +848,12 @@ _361 sermons indexed._
     - [[covenant-umc/2023/welcome|Welcome]] · 2023-07-02
 - **Matthew 10:42**
     - [[covenant-umc/2026/give-me-water|Give Me Water]] · 2026-03-08
+- **Matthew 11:2-11**
+    - [[covenant-umc/2025/cantata-show-don-t-tell|Cantata: Show, Don't Tell]] · 2025-12-14
 - **Matthew 11:16-19**
     - [[covenant-umc/2023/rest|Rest]] · 2023-07-09
 - **Matthew 11:16-19, 25-30**
     - [[covenant-umc/2026/come-to-me-all-you-who-are-weary|Come to Me, All You Who Are Weary]] · 2026-07-05
-- **Matthew 11:2-11**
-    - [[covenant-umc/2025/cantata-show-don-t-tell|Cantata: Show, Don't Tell]] · 2025-12-14
 - **Matthew 11:25-30**
     - [[bee-creek-umc/2020/what-is-our-sacred-story|What is our sacred story?]] · 2020-10-08
     - [[covenant-umc/2023/rest|Rest]] · 2023-07-09
@@ -779,10 +950,6 @@ _361 sermons indexed._
     - [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]] · 2024-05-12
 - **Matthew 19:16-22**
     - [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]] · 2023-11-13
-- **Matthew 1:1-6**
-    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
-- **Matthew 1:18-25**
-    - [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]] · 2025-12-21
 - **Matthew 20:1-16**
     - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
     - [[bee-creek-umc/2020/the-race|The Race]] · 2020-09-15
@@ -836,209 +1003,16 @@ _361 sermons indexed._
     - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
 - **Matthew 28:19-20**
     - [[bee-creek-umc/2022/new-creation|New Creation]] · 2022-02-27
-- **Matthew 2:1-12**
-    - [[bee-creek-umc/2020/half-a-world-away|Half a World Away]] · 2020-12-23
-    - [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]] · 2021-01-03
-    - [[bee-creek-umc/2021/reset-your-house|Reset Your House]] · 2021-01-03
-    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
-    - [[bee-creek-umc/2021/the-gift|The Gift]] · 2021-12-19
-    - [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]] · 2024-01-07
-- **Matthew 2:1-2**
-    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
-- **Matthew 2:1-6**
-    - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
-- **Matthew 2:1-8**
-    - [[bee-creek-umc/2021/rivals|Rivals]] · 2021-12-12
-- **Matthew 2:13-23**
-    - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]] · 2025-12-28
-- **Matthew 3:1-12**
-    - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
-- **Matthew 3:13-17**
-    - [[covenant-umc/2026/waters-above-waters-below|Waters Above, Waters Below]] · 2026-01-11
-    - Baptism of the Lord · 2027-01-10
-- **Matthew 3:2**
-    - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]] · 2021-08-15
-- **Matthew 4:1-11**
-    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
-    - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]] · 2026-02-22
-- **Matthew 4:12-16**
-    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
-    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
-- **Matthew 4:18-19**
-    - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it-2|What Are We Going to Do About It?]] · 2020-12-20
-- **Matthew 4:18-20**
-    - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it|What are we going to do about it?]] · 2020-12-20
-    - [[bee-creek-umc/2021/follow-me|Follow Me]] · 2021-10-06
-    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
-- **Matthew 4:4**
-    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
-    - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
-- **Matthew 5**
-    - [[bee-creek-umc/2022/the-cost|The Cost]] · 2022-09-04
-- **Matthew 5:1-12**
-    - [[covenant-umc/2023/god-s-song-of-love|God's Song of Love]] · 2023-11-06
-    - [[covenant-umc/2026/justice|Justice]] · 2026-02-01
-- **Matthew 5:1-7:29**
-    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
-- **Matthew 5:10-11**
-    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
-- **Matthew 5:13-20**
-    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
-- **Matthew 5:17-18**
-    - [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]] · 2026-08-16
-- **Matthew 5:18**
-    - [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]] · 2025-08-03
-- **Matthew 5:21-22**
-    - [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]] · 2023-11-13
-- **Matthew 5:21-25**
-    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
-- **Matthew 5:23-24**
-    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
-- **Matthew 5:27-28**
-    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
-- **Matthew 5:3**
-    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
-- **Matthew 5:3-10**
-    - [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]] · 2021-11-07
-- **Matthew 5:3-12**
-    - [[bee-creek-umc/2020/saints-and-sinners|Saints and Sinners]] · 2020-11-01
-- **Matthew 5:3-4**
-    - [[bee-creek-umc/2022/the-chassis|The Chassis]] · 2022-05-01
-- **Matthew 5:3-5**
-    - [[bee-creek-umc/2022/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2022-04-17
-    - [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2024-03-31
-- **Matthew 5:3-6**
-    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
-- **Matthew 5:3-9**
-    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
-- **Matthew 5:4**
-    - [[covenant-umc/2024/jesus-wept|Jesus Wept]] · 2024-11-03
-    - [[covenant-umc/2025/what-we-remember|What We Remember]] · 2025-11-02
-- **Matthew 5:45**
-    - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
-- **Matthew 5:48**
-    - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
-    - [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]] · 2020-10-14
-    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
-    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
-    - [[covenant-umc/2023/come-to-me-and-find-rest|Come to Me and Find Rest]] · 2023-07-09
-    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
-- **Matthew 5:5**
-    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
-    - [[bee-creek-umc/2023/holy-conferencing|Holy Conferencing]] · 2023-05-07
-- **Matthew 5:8**
-    - [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]] · 2023-11-26
-- **Matthew 6:1-21**
-    - [[bee-creek-umc/2022/ash-wednesday|Ash Wednesday]] · 2022-03-02
-    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
-    - [[covenant-umc/2024/ash-wednesday|Ash Wednesday]] · 2024-02-14
-    - [[covenant-umc/2025/ash-wednesday|Ash Wednesday]] · 2025-03-05
-- **Matthew 6:1-6**
-    - [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]] · 2021-02-17
-- **Matthew 6:10**
-    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
-- **Matthew 6:11**
-    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
-- **Matthew 6:12**
-    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
-- **Matthew 6:13**
-    - [[bee-creek-umc/2023/lead-us-not-into-temptation|Lead Us Not into Temptation]] · 2023-03-26
-- **Matthew 6:16-18**
-    - [[covenant-umc/2024/first-attempt-temptation-of-jesus|First Attempt (Temptation of Jesus)]] · 2024-02-18
-- **Matthew 6:16-21**
-    - [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]] · 2021-02-17
-    - [[covenant-umc/2026/ash-wednesday|Ash Wednesday]] · 2026-02-18
-- **Matthew 6:19-21**
-    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
-- **Matthew 6:21**
-    - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
-    - [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]] · 2020-10-04
-    - [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]] · 2021-01-03
-    - [[bee-creek-umc/2021/reset-your-house|Reset Your House]] · 2021-01-03
-    - [[bee-creek-umc/2022/freedom-a-new-covenant-for-a-new-year|Freedom: A New Covenant for a New Year]] · 2022-01-02
-- **Matthew 6:25-33**
-    - [[covenant-umc/2024/how-we-fill-our-waiting|How We Fill Our Waiting]] · 2024-12-01
-- **Matthew 6:3**
-    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
-- **Matthew 6:34**
-    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
-    - [[covenant-umc/2026/broken-rod-2|Broken Rod]] · 2026-01-25
-    - [[covenant-umc/2026/broken-rod|Broken Rod]] · 2026-01-25
-- **Matthew 6:9**
-    - [[bee-creek-umc/2023/our-father-who-art-in-heaven-hallowed-be-thy-name|Our Father, Who Art in Heaven, Hallowed Be Thy Name]] · 2023-02-26
-- **Matthew 6:9-13**
-    - [[bee-creek-umc/2021/future-sermon-notes-on-thomas-and-prayer|Future Sermon Notes: On Thomas and Prayer]] 
-    - [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]] · 2023-03-19
-- **Matthew 7:1-2**
-    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
-- **Matthew 7:1-5**
-    - [[covenant-umc/2025/a-sign|A Sign]] · 2025-03-23
-- **Matthew 7:13-14**
-    - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]] · 2023-02-22
-    - [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]] · 2025-10-19
-- **Matthew 7:24-27**
-    - [[bee-creek-umc/2022/the-chassis|The Chassis]] · 2022-05-01
-    - [[covenant-umc/2025/a-new-commandment|A New Commandment]] · 2025-05-18
-    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
-    - A Foundation of Water · 2026-08-09
-- **Matthew 7:3**
-    - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]] · 2021-03-14
-- **Matthew 7:3-5**
-    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
-    - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]] · 2021-11-14
-    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
-- **Matthew 7:7**
-    - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
-    - [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]] · 2023-02-12
-- **Matthew 8:8**
-    - [[covenant-umc/2025/communion|Communion]] · 2025-10-05
-- **Matthew 9:11-13**
-    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
-- **Matthew 9:18-26**
-    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
-- **Matthew 9:35-38**
-    - [[covenant-umc/2026/election-not-selection|Election, Not Selection]] · 2026-06-14
-- **Matthew 9:9**
-    - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]] · 2021-05-02
-- **Matthew 9:9-13**
-    - [[bee-creek-umc/2023/field-hospital|Field Hospital]] · 2023-06-11
-    - [[covenant-umc/2026/walking-along|Walking Along]] · 2026-06-07
 
 ## Mark
-- **Mark 10:13-16**
-    - [[covenant-umc/2024/like-a-child|Like a Child]] · 2024-10-06
-- **Mark 10:17-22**
-    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
-    - [[covenant-umc/2024/screening-god-s-call|Screening God's Call]] · 2024-01-21
-    - [[covenant-umc/2024/not-easy-to-watch|Not Easy to Watch]] · 2024-07-14
-- **Mark 10:17-31**
-    - [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]] · 2024-10-13
-- **Mark 10:35-45**
-    - [[covenant-umc/2024/the-cup|The Cup]] · 2024-10-20
-- **Mark 11:1-11**
-    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
-    - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
-    - Palm Sunday: From Hosanna to Passion · 2023-04-02
-    - [[covenant-umc/2024/palm-sunday|Palm Sunday]] · 2024-03-24
-- **Mark 12:38-44**
-    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
-- **Mark 12:41-44**
-    - [[bee-creek-umc/2022/living-hope|Living Hope]] · 2022-08-14
-    - [[covenant-umc/2024/last-place|Last Place]] · 2024-09-22
-- **Mark 13:1-8**
-    - [[covenant-umc/2024/whose-name|Whose Name?]] · 2024-11-17
-- **Mark 13:24-33**
-    - [[bee-creek-umc/2020/when-will-he-come|When will he come?]] · 2020-12-06
-- **Mark 13:24-37**
-    - [[covenant-umc/2023/the-cultivation-of-christmas-trees|The Cultivation of Christmas Trees]] · 2023-12-03
-- **Mark 14:32-38**
-    - Palm Sunday: From Hosanna to Passion · 2023-04-02
-    - [[covenant-umc/2026/waving-from-the-sideline|Waving from the Sideline]] · 2026-03-29
-- **Mark 16:1-8**
-    - [[bee-creek-umc/2023/easter|Easter]] · 2023-04-09
-    - [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2024-03-31
 - **Mark 1:1-8**
     - [[bee-creek-umc/2020/the-four-questions-who-is-coming|The Four Questions: Who Is Coming?]] · 2020-11-29
+- **Mark 1:4**
+    - [[bee-creek-umc/2023/aldersgate|Aldersgate]] · 2023-04-30
+- **Mark 1:4-11**
+    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
+- **Mark 1:9-15**
+    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
 - **Mark 1:14-20**
     - [[covenant-umc/2024/screening-god-s-call|Screening God's Call]] · 2024-01-21
 - **Mark 1:16-19**
@@ -1049,12 +1023,6 @@ _361 sermons indexed._
     - [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]] · 2024-01-28
 - **Mark 1:24**
     - [[covenant-umc/2024/binding-the-strongman|Binding the Strongman]] · 2024-06-09
-- **Mark 1:4**
-    - [[bee-creek-umc/2023/aldersgate|Aldersgate]] · 2023-04-30
-- **Mark 1:4-11**
-    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
-- **Mark 1:9-15**
-    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
 - **Mark 2:23-3:6**
     - [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]] · 2024-06-02
 - **Mark 3:20-35**
@@ -1093,8 +1061,119 @@ _361 sermons indexed._
     - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
 - **Mark 9:43-47**
     - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
+- **Mark 10:13-16**
+    - [[covenant-umc/2024/like-a-child|Like a Child]] · 2024-10-06
+- **Mark 10:17-22**
+    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
+    - [[covenant-umc/2024/screening-god-s-call|Screening God's Call]] · 2024-01-21
+    - [[covenant-umc/2024/not-easy-to-watch|Not Easy to Watch]] · 2024-07-14
+- **Mark 10:17-31**
+    - [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]] · 2024-10-13
+- **Mark 10:35-45**
+    - [[covenant-umc/2024/the-cup|The Cup]] · 2024-10-20
+- **Mark 11:1-11**
+    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
+    - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
+    - Palm Sunday: From Hosanna to Passion · 2023-04-02
+    - [[covenant-umc/2024/palm-sunday|Palm Sunday]] · 2024-03-24
+- **Mark 12:38-44**
+    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
+- **Mark 12:41-44**
+    - [[bee-creek-umc/2022/living-hope|Living Hope]] · 2022-08-14
+    - [[covenant-umc/2024/last-place|Last Place]] · 2024-09-22
+- **Mark 13:1-8**
+    - [[covenant-umc/2024/whose-name|Whose Name?]] · 2024-11-17
+- **Mark 13:24-33**
+    - [[bee-creek-umc/2020/when-will-he-come|When will he come?]] · 2020-12-06
+- **Mark 13:24-37**
+    - [[covenant-umc/2023/the-cultivation-of-christmas-trees|The Cultivation of Christmas Trees]] · 2023-12-03
+- **Mark 14:32-38**
+    - Palm Sunday: From Hosanna to Passion · 2023-04-02
+    - [[covenant-umc/2026/waving-from-the-sideline|Waving from the Sideline]] · 2026-03-29
+- **Mark 16:1-8**
+    - [[bee-creek-umc/2023/easter|Easter]] · 2023-04-09
+    - [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2024-03-31
 
 ## Luke
+- **Luke 1:26-37**
+    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
+- **Luke 1:26-38**
+    - [[covenant-umc/2023/saying-yes-to-god|Saying Yes to God]] · 2023-12-24
+- **Luke 1:28-38**
+    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
+- **Luke 1:30-31**
+    - [[covenant-umc/2024/waiting-on-a-miracle|Waiting on a Miracle]] · 2024-12-15
+- **Luke 1:46-53**
+    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
+- **Luke 1:46-55**
+    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
+    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
+- **Luke 1:51-52**
+    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
+- **Luke 1:68-75**
+    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
+- **Luke 2:1-11**
+    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
+- **Luke 2:1-12**
+    - [[bee-creek-umc/2021/christmas-eve-why-now|Christmas Eve: Why Now?]] · 2021-12-24
+- **Luke 2:1-14**
+    - [[covenant-umc/2023/christmas-eve-god-enters-history|Christmas Eve: God Enters History]] · 2023-12-24
+    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
+    - [[covenant-umc/2025/the-rescue|The Rescue]] · 2025-12-24
+- **Luke 2:1-2**
+    - [[bee-creek-umc/2022/who-suffered-under-pontius-pilate|Who Suffered Under Pontius Pilate]] · 2022-11-06
+- **Luke 2:1-7**
+    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
+    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
+- **Luke 2:6-7**
+    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
+- **Luke 2:22-35**
+    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
+- **Luke 2:22-40**
+    - [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2020-12-27
+    - [[covenant-umc/2023/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2023-12-31
+    - [[covenant-umc/2024/how-to-say-thank-you|How to Say Thank You]] · 2024-12-29
+- **Luke 2:29-32**
+    - [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]] · 2024-06-02
+- **Luke 2:38**
+    - [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2020-12-27
+    - [[covenant-umc/2024/how-to-say-thank-you|How to Say Thank You]] · 2024-12-29
+- **Luke 3:15-17**
+    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
+- **Luke 3:15-22**
+    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
+- **Luke 3:21-22**
+    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
+    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
+- **Luke 4:1-11**
+    - [[covenant-umc/2025/no-distinction|No Distinction]] · 2025-03-09
+- **Luke 4:1-13**
+    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
+    - [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]] · 2022-01-23
+    - [[covenant-umc/2024/first-attempt-temptation-of-jesus|First Attempt (Temptation of Jesus)]] · 2024-02-18
+    - [[covenant-umc/2024/eating-stones|Eating Stones]] · 2024-02-18
+- **Luke 4:14-21**
+    - [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]] · 2022-01-23
+    - [[covenant-umc/2025/the-calling-and-the-called|The Calling and the Called]] · 2025-01-26
+- **Luke 5:33-39**
+    - [[covenant-umc/2025/prayer|Prayer]] · 2025-09-21
+- **Luke 6:20**
+    - [[bee-creek-umc/2023/trinity-sunday|Trinity Sunday]] · 2023-06-04
+    - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
+- **Luke 6:20-31**
+    - [[covenant-umc/2025/what-we-remember|What We Remember]] · 2025-11-02
+- **Luke 7:41-43**
+    - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]] · 2021-03-14
+- **Luke 8:26-39**
+    - [[covenant-umc/2025/legion|Legion]] · 2025-06-22
+- **Luke 9:23-25**
+    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
+- **Luke 9:28-36**
+    - [[bee-creek-umc/2023/who-is-jesus-the-transfiguration|Who Is Jesus? The Transfiguration]] · 2023-02-19
+- **Luke 9:51-56**
+    - [[covenant-umc/2025/if-jesus-drew-a-portrait-of-you|If Jesus Drew a Portrait of You]] · 2025-03-02
+- **Luke 9:51-62**
+    - [[covenant-umc/2026/ordinary-time|Ordinary Time]] · 2026-06-28
 - **Luke 10:1-11**
     - [[covenant-umc/2025/the-harvest|The Harvest]] · 2025-07-06
     - Ordinary Time · 2026-07-05
@@ -1143,15 +1222,15 @@ _361 sermons indexed._
     - [[covenant-umc/2025/under-the-wing|Under the Wing]] · 2025-03-16
 - **Luke 14:1**
     - [[bee-creek-umc/2022/responsibility|Responsibility]] · 2022-08-28
+- **Luke 14:7-14**
+    - [[bee-creek-umc/2022/responsibility|Responsibility]] · 2022-08-28
+    - [[covenant-umc/2025/the-bible|The Bible]] · 2025-09-07
 - **Luke 14:25-33**
     - [[bee-creek-umc/2022/the-cost|The Cost]] · 2022-09-04
 - **Luke 14:26**
     - [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]] · 2024-08-25
 - **Luke 14:26-27**
     - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
-- **Luke 14:7-14**
-    - [[bee-creek-umc/2022/responsibility|Responsibility]] · 2022-08-28
-    - [[covenant-umc/2025/the-bible|The Bible]] · 2025-09-07
 - **Luke 15:1-10**
     - [[bee-creek-umc/2022/lost-found-lost|Lost & Found: Lost]] · 2022-09-11
     - [[covenant-umc/2025/the-parables|The Parables]] · 2025-08-17
@@ -1159,10 +1238,6 @@ _361 sermons indexed._
     - [[covenant-umc/2025/the-prodigal-son-and-the-ministry-of-reconciliation|The Prodigal Son and the Ministry of Reconciliation]] · 2025-03-30
 - **Luke 15:1-32**
     - [[covenant-umc/2024/being-sheep|Being Sheep]] · 2024-04-21
-- **Luke 15:11-32**
-    - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
-    - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
-    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
 - **Luke 15:3-13**
     - [[bee-creek-umc/2021/when-you-re-lost-god-will-find-you|When You're Lost, God Will Find You]] · 2021-08-08
 - **Luke 15:3-7**
@@ -1173,6 +1248,10 @@ _361 sermons indexed._
 - **Luke 15:8-10**
     - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
     - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
+- **Luke 15:11-32**
+    - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
+    - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
+    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
 - **Luke 16:19-31**
     - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
     - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
@@ -1181,14 +1260,14 @@ _361 sermons indexed._
     - [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]] · 2025-10-19
 - **Luke 18**
     - [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]] · 2020-10-14
+- **Luke 18:9-14**
+    - [[bee-creek-umc/2020/where-two-or-three|Where two or three…]] · 2020-08-25
 - **Luke 18:18-23**
     - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
     - [[bee-creek-umc/2020/what-is-our-sacred-story|What is our sacred story?]] · 2020-10-08
     - [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]] · 2020-10-14
 - **Luke 18:18-27**
     - [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]] · 2020-10-04
-- **Luke 18:9-14**
-    - [[bee-creek-umc/2020/where-two-or-three|Where two or three…]] · 2020-08-25
 - **Luke 19:1-10**
     - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
     - [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]] · 2020-10-04
@@ -1198,23 +1277,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]] · 2021-05-02
 - **Luke 19:28-40**
     - [[bee-creek-umc/2022/palm-sunday|Palm Sunday]] · 2022-04-10
-- **Luke 1:26-37**
-    - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]] · 2024-01-14
-- **Luke 1:26-38**
-    - [[covenant-umc/2023/saying-yes-to-god|Saying Yes to God]] · 2023-12-24
-- **Luke 1:28-38**
-    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
-- **Luke 1:30-31**
-    - [[covenant-umc/2024/waiting-on-a-miracle|Waiting on a Miracle]] · 2024-12-15
-- **Luke 1:46-53**
-    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
-- **Luke 1:46-55**
-    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
-    - [[covenant-umc/2024/magnify|Magnify]] · 2024-12-22
-- **Luke 1:51-52**
-    - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
-- **Luke 1:68-75**
-    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
 - **Luke 21:1-4**
     - [[bee-creek-umc/2020/where-two-or-three|Where two or three…]] · 2020-08-25
 - **Luke 21:5-8**
@@ -1253,6 +1315,8 @@ _361 sermons indexed._
     - [[covenant-umc/2025/easter-he-is-not-here-among-the-dead|Easter: He Is Not Here Among the Dead]] · 2025-04-20
 - **Luke 24:1-9**
     - [[covenant-umc/2025/the-crown-of-salvation|The Crown of Salvation]] · 2025-10-12
+- **Luke 24:5**
+    - [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]] · 2022-12-04
 - **Luke 24:13-18**
     - [[bee-creek-umc/2022/the-driver|The Driver]] · 2022-05-22
 - **Luke 24:13-35**
@@ -1267,72 +1331,112 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
 - **Luke 24:36-48**
     - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
-- **Luke 24:5**
-    - [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]] · 2022-12-04
-- **Luke 2:1-11**
-    - [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]] · 2022-12-24
-- **Luke 2:1-12**
-    - [[bee-creek-umc/2021/christmas-eve-why-now|Christmas Eve: Why Now?]] · 2021-12-24
-- **Luke 2:1-14**
-    - [[covenant-umc/2023/christmas-eve-god-enters-history|Christmas Eve: God Enters History]] · 2023-12-24
-    - [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]] · 2024-12-24
-    - [[covenant-umc/2025/the-rescue|The Rescue]] · 2025-12-24
-- **Luke 2:1-2**
-    - [[bee-creek-umc/2022/who-suffered-under-pontius-pilate|Who Suffered Under Pontius Pilate]] · 2022-11-06
-- **Luke 2:1-7**
-    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
-    - [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]] · 2022-12-24
-- **Luke 2:22-35**
-    - [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]] · 2021-12-26
-- **Luke 2:22-40**
-    - [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2020-12-27
-    - [[covenant-umc/2023/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2023-12-31
-    - [[covenant-umc/2024/how-to-say-thank-you|How to Say Thank You]] · 2024-12-29
-- **Luke 2:29-32**
-    - [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]] · 2024-06-02
-- **Luke 2:38**
-    - [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2020-12-27
-    - [[covenant-umc/2024/how-to-say-thank-you|How to Say Thank You]] · 2024-12-29
-- **Luke 2:6-7**
-    - [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]] · 2020-12-24
-- **Luke 3:15-17**
-    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
-- **Luke 3:15-22**
-    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
-- **Luke 3:21-22**
-    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
-    - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
-- **Luke 4:1-11**
-    - [[covenant-umc/2025/no-distinction|No Distinction]] · 2025-03-09
-- **Luke 4:1-13**
-    - [[bee-creek-umc/2021/restless|Restless]] · 2021-02-21
-    - [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]] · 2022-01-23
-    - [[covenant-umc/2024/first-attempt-temptation-of-jesus|First Attempt (Temptation of Jesus)]] · 2024-02-18
-    - [[covenant-umc/2024/eating-stones|Eating Stones]] · 2024-02-18
-- **Luke 4:14-21**
-    - [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]] · 2022-01-23
-    - [[covenant-umc/2025/the-calling-and-the-called|The Calling and the Called]] · 2025-01-26
-- **Luke 5:33-39**
-    - [[covenant-umc/2025/prayer|Prayer]] · 2025-09-21
-- **Luke 6:20**
-    - [[bee-creek-umc/2023/trinity-sunday|Trinity Sunday]] · 2023-06-04
-    - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
-- **Luke 6:20-31**
-    - [[covenant-umc/2025/what-we-remember|What We Remember]] · 2025-11-02
-- **Luke 7:41-43**
-    - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]] · 2021-03-14
-- **Luke 8:26-39**
-    - [[covenant-umc/2025/legion|Legion]] · 2025-06-22
-- **Luke 9:23-25**
-    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
-- **Luke 9:28-36**
-    - [[bee-creek-umc/2023/who-is-jesus-the-transfiguration|Who Is Jesus? The Transfiguration]] · 2023-02-19
-- **Luke 9:51-56**
-    - [[covenant-umc/2025/if-jesus-drew-a-portrait-of-you|If Jesus Drew a Portrait of You]] · 2025-03-02
-- **Luke 9:51-62**
-    - [[covenant-umc/2026/ordinary-time|Ordinary Time]] · 2026-06-28
 
 ## John
+- **John 1:1**
+    - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
+- **John 1:1-3**
+    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
+- **John 1:1-4**
+    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
+- **John 1:1-46**
+    - [[covenant-umc/2023/welcome|Welcome]] · 2023-07-02
+- **John 1:1-5**
+    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
+- **John 1:6-9**
+    - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
+- **John 1:10-14**
+    - [[covenant-umc/2023/fruitfulness|Fruitfulness]] · 2023-09-24
+- **John 1:15-18**
+    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
+- **John 1:19-28**
+    - [[covenant-umc/2023/the-voice-of-sabbath|The Voice of Sabbath]] · 2023-10-08
+- **John 1:29-34**
+    - [[covenant-umc/2023/anoint-the-dust|Anoint the Dust]] · 2023-10-15
+- **John 1:35-39**
+    - [[covenant-umc/2023/come-and-see|Come and See]] · 2023-10-22
+- **John 1:35-42**
+    - [[bee-creek-umc/2021/come-and-see|Come and See]] · 2021-09-12
+    - [[bee-creek-umc/2021/come-and-see-2|Come and See]] · 2021-09-12
+    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
+- **John 1:46**
+    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
+- **John 2:1-11**
+    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
+- **John 2:13-22**
+    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
+- **John 3:1-13**
+    - [[covenant-umc/2024/lifted-up-reading-the-bible-as-jesus-reads-it|Lifted Up: Reading the Bible as Jesus Reads It]] · 2024-03-10
+- **John 3:1-17**
+    - [[covenant-umc/2024/trinity-sunday|Trinity Sunday]] · 2024-05-26
+    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
+- **John 3:1-21**
+    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
+- **John 3:1-7**
+    - [[bee-creek-umc/2022/aerodynamics|Aerodynamics]] · 2022-05-08
+- **John 3:1-8**
+    - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
+- **John 3:13-17**
+    - [[bee-creek-umc/2022/lost-found-found|Lost & Found: Found]] · 2022-09-18
+- **John 3:14-21**
+    - [[covenant-umc/2024/lifted-up-reading-the-bible-as-jesus-reads-it|Lifted Up: Reading the Bible as Jesus Reads It]] · 2024-03-10
+- **John 3:16**
+    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
+    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
+    - [[bee-creek-umc/2022/who-gets-to-be-saved|Who Gets to Be Saved]] · 2022-04-03
+    - [[bee-creek-umc/2022/the-power-unit|The Power Unit]] · 2022-05-15
+    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
+    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
+    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
+    - [[covenant-umc/2023/come-to-me-and-find-rest|Come to Me and Find Rest]] · 2023-07-09
+    - [[covenant-umc/2024/subterranean-hometown-blues|Subterranean Hometown Blues]] · 2024-07-07
+    - [[covenant-umc/2025/the-birth-of-jesus|The Birth of Jesus]] · 2025-08-10
+    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
+    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
+- **John 3:16-17**
+    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
+- **John 3:30**
+    - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
+- **John 4:1-26**
+    - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]] · 2021-05-02
+- **John 4:5-42**
+    - [[covenant-umc/2026/give-me-water|Give Me Water]] · 2026-03-08
+- **John 4:13-14**
+    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
+- **John 5:24-25**
+    - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
+- **John 5:45**
+    - [[bee-creek-umc/2022/what-is-hope|What is Hope?]] · 2022-07-31
+- **John 6:1-15**
+    - [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]] · 2024-07-28
+- **John 6:24-35**
+    - [[covenant-umc/2024/the-bread-of-life-what-are-you-hungry-for|The Bread of Life: What Are You Hungry For?]] · 2024-08-04
+- **John 6:26-35**
+    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
+- **John 6:32-35**
+    - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
+- **John 6:35**
+    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
+- **John 6:35-40**
+    - [[bee-creek-umc/2022/food|Food]] · 2022-07-10
+- **John 6:35-51**
+    - Drawn by the Father · 2024-08-11
+- **John 6:51-58**
+    - [[covenant-umc/2024/eternal-life|Eternal Life]] · 2024-08-18
+- **John 6:56-69**
+    - [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]] · 2024-08-25
+- **John 8:7**
+    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
+- **John 8:34-36**
+    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
+- **John 9:1-25**
+    - [[bee-creek-umc/2023/revival|Revival]] · 2023-04-23
+- **John 9:1-41**
+    - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
+- **John 9:1-7**
+    - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]] · 2021-06-20
+- **John 9:25**
+    - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
 - **John 10:1-10**
     - [[covenant-umc/2026/the-gate|The Gate]] · 2026-04-26
 - **John 10:11-18**
@@ -1392,6 +1496,11 @@ _361 sermons indexed._
     - A Service of Death and Resurrection for Estalena Ferguson Aylieff · 2022-03-21
     - A Service of Death and Resurrection for Christine Renée Jarl · 2022-12-05
     - A Service of Death and Resurrection for Andy Williford · 2023-04-22
+- **John 14:6**
+    - [[bee-creek-umc/2020/why-is-he-coming|Why Is He Coming?]] · 2020-12-13
+    - [[covenant-umc/2023/rest|Rest]] · 2023-07-09
+- **John 14:8-17**
+    - [[covenant-umc/2025/show-us-the-father|Show Us the Father]] · 2025-06-08
 - **John 14:15-21**
     - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
 - **John 14:18-19**
@@ -1408,24 +1517,19 @@ _361 sermons indexed._
     - A Service of Death and Resurrection for Andy Williford · 2023-04-22
 - **John 14:27**
     - Glynis Frye Memorial · 2021-12-16
-- **John 14:6**
-    - [[bee-creek-umc/2020/why-is-he-coming|Why Is He Coming?]] · 2020-12-13
-    - [[covenant-umc/2023/rest|Rest]] · 2023-07-09
-- **John 14:8-17**
-    - [[covenant-umc/2025/show-us-the-father|Show Us the Father]] · 2025-06-08
-- **John 15:13**
-    - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
-- **John 15:26-27**
-    - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
 - **John 15:4-5**
     - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
 - **John 15:4-6**
     - Abide With Me · 2021-05-16
-- **John 16:12-15**
-    - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
+- **John 15:13**
+    - [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]] · 2021-07-11
+- **John 15:26-27**
+    - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
 - **John 16:7**
     - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
     - [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]] · 2024-05-12
+- **John 16:12-15**
+    - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
 - **John 17:1-11**
     - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
 - **John 17:10-19**
@@ -1437,36 +1541,10 @@ _361 sermons indexed._
 - **John 18:1-19:42**
     - [[covenant-umc/2025/a-service-for-good-friday|A Service for Good Friday]] · 2025-04-18
     - A Service for Good Friday · 2026-04-03
-- **John 1:1**
-    - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
-- **John 1:1-3**
-    - [[covenant-umc/2023/who-is-christ|Who is Christ?]] · 2023-08-27
-- **John 1:1-4**
-    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
-- **John 1:1-46**
-    - [[covenant-umc/2023/welcome|Welcome]] · 2023-07-02
-- **John 1:1-5**
-    - [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]] · 2023-09-10
-- **John 1:10-14**
-    - [[covenant-umc/2023/fruitfulness|Fruitfulness]] · 2023-09-24
-- **John 1:15-18**
-    - [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]] · 2023-10-01
-- **John 1:19-28**
-    - [[covenant-umc/2023/the-voice-of-sabbath|The Voice of Sabbath]] · 2023-10-08
-- **John 1:29-34**
-    - [[covenant-umc/2023/anoint-the-dust|Anoint the Dust]] · 2023-10-15
-- **John 1:35-39**
-    - [[covenant-umc/2023/come-and-see|Come and See]] · 2023-10-22
-- **John 1:35-42**
-    - [[bee-creek-umc/2021/come-and-see|Come and See]] · 2021-09-12
-    - [[bee-creek-umc/2021/come-and-see-2|Come and See]] · 2021-09-12
-    - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
-- **John 1:46**
-    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
-- **John 1:6-9**
-    - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
 - **John 20:1-18**
     - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]] · 2021-04-04
+- **John 20:3-4**
+    - [[covenant-umc/2025/recognized-by-his-scars-the-power-of-pardon|Recognized by His Scars: The Power of Pardon]] · 2025-04-27
 - **John 20:11-18**
     - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]] · 2021-08-15
     - [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]] · 2024-03-31
@@ -1485,130 +1563,27 @@ _361 sermons indexed._
 - **John 20:24-29**
     - [[bee-creek-umc/2021/future-sermon-notes-on-thomas-and-prayer|Future Sermon Notes: On Thomas and Prayer]] 
     - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
-- **John 20:3-4**
-    - [[covenant-umc/2025/recognized-by-his-scars-the-power-of-pardon|Recognized by His Scars: The Power of Pardon]] · 2025-04-27
 - **John 20:30-31**
     - [[bee-creek-umc/2022/who-suffered-under-pontius-pilate|Who Suffered Under Pontius Pilate]] · 2022-11-06
     - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
+- **John 21:9-19**
+    - [[covenant-umc/2025/fish-and-chips|Fish and Chips]] · 2025-05-04
 - **John 21:15-17**
     - [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]] · 2022-12-18
 - **John 21:25**
     - [[covenant-umc/2025/the-bible|The Bible]] · 2025-09-07
-- **John 21:9-19**
-    - [[covenant-umc/2025/fish-and-chips|Fish and Chips]] · 2025-05-04
-- **John 2:1-11**
-    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
-- **John 2:13-22**
-    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
-- **John 3:1-13**
-    - [[covenant-umc/2024/lifted-up-reading-the-bible-as-jesus-reads-it|Lifted Up: Reading the Bible as Jesus Reads It]] · 2024-03-10
-- **John 3:1-17**
-    - [[covenant-umc/2024/trinity-sunday|Trinity Sunday]] · 2024-05-26
-    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
-- **John 3:1-21**
-    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
-- **John 3:1-7**
-    - [[bee-creek-umc/2022/aerodynamics|Aerodynamics]] · 2022-05-08
-- **John 3:1-8**
-    - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]] · 2021-05-09
-- **John 3:13-17**
-    - [[bee-creek-umc/2022/lost-found-found|Lost & Found: Found]] · 2022-09-18
-- **John 3:14-21**
-    - [[covenant-umc/2024/lifted-up-reading-the-bible-as-jesus-reads-it|Lifted Up: Reading the Bible as Jesus Reads It]] · 2024-03-10
-- **John 3:16**
-    - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]] · 2021-06-06
-    - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
-    - [[bee-creek-umc/2022/who-gets-to-be-saved|Who Gets to Be Saved]] · 2022-04-03
-    - [[bee-creek-umc/2022/the-power-unit|The Power Unit]] · 2022-05-15
-    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
-    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
-    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
-    - [[covenant-umc/2023/come-to-me-and-find-rest|Come to Me and Find Rest]] · 2023-07-09
-    - [[covenant-umc/2024/subterranean-hometown-blues|Subterranean Hometown Blues]] · 2024-07-07
-    - [[covenant-umc/2025/the-birth-of-jesus|The Birth of Jesus]] · 2025-08-10
-    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
-    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
-- **John 3:16-17**
-    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
-- **John 3:30**
-    - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
-- **John 4:1-26**
-    - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]] · 2021-05-02
-- **John 4:13-14**
-    - [[bee-creek-umc/2022/water|Water]] · 2022-07-03
-- **John 4:5-42**
-    - [[covenant-umc/2026/give-me-water|Give Me Water]] · 2026-03-08
-- **John 5:24-25**
-    - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
-- **John 5:45**
-    - [[bee-creek-umc/2022/what-is-hope|What is Hope?]] · 2022-07-31
-- **John 6:1-15**
-    - [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]] · 2024-07-28
-- **John 6:24-35**
-    - [[covenant-umc/2024/the-bread-of-life-what-are-you-hungry-for|The Bread of Life: What Are You Hungry For?]] · 2024-08-04
-- **John 6:26-35**
-    - [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]] · 2023-03-12
-- **John 6:32-35**
-    - [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]] · 2023-08-06
-- **John 6:35**
-    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
-- **John 6:35-40**
-    - [[bee-creek-umc/2022/food|Food]] · 2022-07-10
-- **John 6:35-51**
-    - Drawn by the Father · 2024-08-11
-- **John 6:51-58**
-    - [[covenant-umc/2024/eternal-life|Eternal Life]] · 2024-08-18
-- **John 6:56-69**
-    - [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]] · 2024-08-25
-- **John 8:34-36**
-    - [[covenant-umc/2025/original-sin|Original Sin]] · 2025-02-02
-- **John 8:7**
-    - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
-- **John 9:1-25**
-    - [[bee-creek-umc/2023/revival|Revival]] · 2023-04-23
-- **John 9:1-41**
-    - [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]] · 2026-03-15
-- **John 9:1-7**
-    - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]] · 2021-06-20
-- **John 9:25**
-    - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
 
 ## Acts
-- **Acts 10:9-16**
-    - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]] · 2021-01-10
-    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
-    - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
-- **Acts 11:1-9**
-    - [[covenant-umc/2025/a-new-commandment|A New Commandment]] · 2025-05-18
-- **Acts 15**
-    - [[covenant-umc/2025/we-are-one|We are One]] · 2025-06-01
-- **Acts 15:1-21**
-    - [[covenant-umc/2025/ask-me-anything-2|Ask Me Anything]] · 2025-07-13
-- **Acts 15:6-12**
-    - [[bee-creek-umc/2021/the-church-in-the-present|The Church in the Present]] · 2021-10-24
-- **Acts 16:16-18**
-    - [[covenant-umc/2025/we-are-one|We are One]] · 2025-06-01
-- **Acts 16:9-15**
-    - [[covenant-umc/2025/trouble-in-river-city|Trouble in River City]] · 2025-05-25
-- **Acts 17:22-28**
-    - [[bee-creek-umc/2022/the-power-unit|The Power Unit]] · 2022-05-15
-- **Acts 17:22-31**
-    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
-- **Acts 17:28**
-    - [[bee-creek-umc/2023/our-father-who-art-in-heaven-hallowed-be-thy-name|Our Father, Who Art in Heaven, Hallowed Be Thy Name]] · 2023-02-26
-    - [[bee-creek-umc/2023/pentecost|Pentecost]] · 2023-05-28
+- **Acts 1:6-14**
+    - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
+- **Acts 1:9**
+    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
 - **Acts 1:11**
     - [[covenant-umc/2026/upside-down|Upside Down]] · 2026-04-05
 - **Acts 1:15-26**
     - [[bee-creek-umc/2023/the-holy-club|The Holy Club]] · 2023-04-16
 - **Acts 1:23-26**
     - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
-- **Acts 1:6-14**
-    - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
-- **Acts 1:9**
-    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
-- **Acts 28:28-31**
-    - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]] · 2021-10-31
 - **Acts 2:1-21**
     - [[covenant-umc/2026/a-burning-sensation-summit-fever-a-pentecost-sermon|A Burning Sensation (Summit Fever: A Pentecost Sermon)]] · 2026-05-24
 - **Acts 2:1-4**
@@ -1656,49 +1631,45 @@ _361 sermons indexed._
     - [[bee-creek-umc/2023/discipleship|Discipleship]] · 2023-05-14
 - **Acts 7:58-8:1**
     - [[bee-creek-umc/2021/reset-your-soul|Reset Your Soul]] · 2021-01-17
-- **Acts 8:14-17**
-    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
-- **Acts 8:26-31**
-    - [[covenant-umc/2025/if-jesus-drew-a-portrait-of-you|If Jesus Drew a Portrait of You]] · 2025-03-02
 - **Acts 8:9-20**
     - [[bee-creek-umc/2021/the-star|The Star]] · 2021-11-28
 - **Acts 8:9-24**
     - [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]] · 2023-09-17
+- **Acts 8:14-17**
+    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
+- **Acts 8:26-31**
+    - [[covenant-umc/2025/if-jesus-drew-a-portrait-of-you|If Jesus Drew a Portrait of You]] · 2025-03-02
 - **Acts 9:1-6**
     - [[covenant-umc/2025/fish-and-chips|Fish and Chips]] · 2025-05-04
 - **Acts 9:36-43**
     - [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]] · 2025-05-11
+- **Acts 10:9-16**
+    - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]] · 2021-01-10
+    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
+    - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
+- **Acts 11:1-9**
+    - [[covenant-umc/2025/a-new-commandment|A New Commandment]] · 2025-05-18
+- **Acts 15**
+    - [[covenant-umc/2025/we-are-one|We are One]] · 2025-06-01
+- **Acts 15:1-21**
+    - [[covenant-umc/2025/ask-me-anything-2|Ask Me Anything]] · 2025-07-13
+- **Acts 15:6-12**
+    - [[bee-creek-umc/2021/the-church-in-the-present|The Church in the Present]] · 2021-10-24
+- **Acts 16:9-15**
+    - [[covenant-umc/2025/trouble-in-river-city|Trouble in River City]] · 2025-05-25
+- **Acts 16:16-18**
+    - [[covenant-umc/2025/we-are-one|We are One]] · 2025-06-01
+- **Acts 17:22-28**
+    - [[bee-creek-umc/2022/the-power-unit|The Power Unit]] · 2022-05-15
+- **Acts 17:22-31**
+    - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]] · 2026-05-10
+- **Acts 17:28**
+    - [[bee-creek-umc/2023/our-father-who-art-in-heaven-hallowed-be-thy-name|Our Father, Who Art in Heaven, Hallowed Be Thy Name]] · 2023-02-26
+    - [[bee-creek-umc/2023/pentecost|Pentecost]] · 2023-05-28
+- **Acts 28:28-31**
+    - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]] · 2021-10-31
 
 ## Romans
-- **Romans 10:8-13**
-    - [[covenant-umc/2025/no-distinction|No Distinction]] · 2025-03-09
-- **Romans 10:9**
-    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
-- **Romans 10:9-13**
-    - [[bee-creek-umc/2022/what-is-salvation|What is Salvation?]] · 2022-03-06
-- **Romans 11:17-24**
-    - [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]] · 2024-01-07
-- **Romans 12:2**
-    - [[bee-creek-umc/2021/reset-your-world|Reset Your World]] · 2021-01-24
-    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
-- **Romans 12:3**
-    - [[bee-creek-umc/2021/reset-your-world|Reset Your World]] · 2021-01-24
-- **Romans 13**
-    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
-- **Romans 13:1-2**
-    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
-- **Romans 14**
-    - [[covenant-umc/2025/communion|Communion]] · 2025-10-05
-- **Romans 14:17**
-    - [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]] · 2025-10-19
-- **Romans 14:21**
-    - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
-- **Romans 14:7-8**
-    - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
-- **Romans 15:4-7**
-    - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
-- **Romans 16:1-7**
-    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
 - **Romans 1:19-20**
     - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 - **Romans 3:10-12**
@@ -1717,18 +1688,18 @@ _361 sermons indexed._
     - [[covenant-umc/2025/sanctification|Sanctification]] · 2025-02-16
 - **Romans 5:1**
     - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
+- **Romans 5:8**
+    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
 - **Romans 5:17**
     - Evil · 2021-08-21
 - **Romans 5:23**
     - [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]] · 2024-09-01
-- **Romans 5:8**
-    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
-- **Romans 6:23**
-    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
-    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
 - **Romans 6:3-4**
     - [[covenant-umc/2025/baptism|Baptism]] · 2025-09-14
 - **Romans 6:5**
+    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
+    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
+- **Romans 6:23**
     - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
     - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
 - **Romans 7:15**
@@ -1759,8 +1730,57 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/big-boat|Big Boat]] · 2021-06-13
     - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
     - [[covenant-umc/2024/laborers-in-the-vineyard-grace-community-and-mortality|Laborers in the Vineyard: Grace, Community, and Mortality]] · 2024-02-04
+- **Romans 10:8-13**
+    - [[covenant-umc/2025/no-distinction|No Distinction]] · 2025-03-09
+- **Romans 10:9**
+    - [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]] · 2023-02-05
+- **Romans 10:9-13**
+    - [[bee-creek-umc/2022/what-is-salvation|What is Salvation?]] · 2022-03-06
+- **Romans 11:17-24**
+    - [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]] · 2024-01-07
+- **Romans 12:2**
+    - [[bee-creek-umc/2021/reset-your-world|Reset Your World]] · 2021-01-24
+    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
+- **Romans 12:3**
+    - [[bee-creek-umc/2021/reset-your-world|Reset Your World]] · 2021-01-24
+- **Romans 13**
+    - [[covenant-umc/2026/go-from-your-country|Go From Your Country]] · 2026-03-01
+- **Romans 13:1-2**
+    - [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]] · 2023-03-05
+- **Romans 14**
+    - [[covenant-umc/2025/communion|Communion]] · 2025-10-05
+- **Romans 14:7-8**
+    - [[bee-creek-umc/2020/not-to-us|Not to Us]] · 2020-09-13
+- **Romans 14:17**
+    - [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]] · 2025-10-19
+- **Romans 14:21**
+    - [[covenant-umc/2024/opened-eyes|Opened Eyes]] · 2024-04-14
+- **Romans 15:4-7**
+    - [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]] · 2025-12-07
+- **Romans 16:1-7**
+    - [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]] · 2021-06-27
 
 ## 1 Corinthians
+- **1 Corinthians 1:18**
+    - [[bee-creek-umc/2023/holy-conferencing|Holy Conferencing]] · 2023-05-07
+- **1 Corinthians 1:18-25**
+    - [[bee-creek-umc/2021/restless-with-foolishness|Restless with Foolishness]] · 2021-03-07
+    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
+- **1 Corinthians 1:23-25**
+    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
+- **1 Corinthians 2:1-5**
+    - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]] · 2021-08-15
+- **1 Corinthians 4:5**
+    - [[bee-creek-umc/2021/rivals|Rivals]] · 2021-12-12
+- **1 Corinthians 6:19**
+    - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]] · 2021-01-10
+    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
+- **1 Corinthians 7**
+    - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]] · 2021-04-11
+- **1 Corinthians 8:1**
+    - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]] · 2021-04-11
+- **1 Corinthians 9:14**
+    - [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]] · 2024-09-01
 - **1 Corinthians 10:1-13**
     - [[bee-creek-umc/2022/where-are-we|Where Are We]] · 2022-03-13
 - **1 Corinthians 10:1-5**
@@ -1775,10 +1795,10 @@ _361 sermons indexed._
     - [[covenant-umc/2025/maundy-thursday|Maundy Thursday]] · 2025-04-17
 - **1 Corinthians 12**
     - [[covenant-umc/2025/show-us-the-father|Show Us the Father]] · 2025-06-08
-- **1 Corinthians 12:12-27**
-    - [[bee-creek-umc/2020/what-is-our-sacred-story|What is our sacred story?]] · 2020-10-08
 - **1 Corinthians 12:4-11**
     - [[bee-creek-umc/2022/freedom-in-christ|Freedom in Christ]] · 2022-01-16
+- **1 Corinthians 12:12-27**
+    - [[bee-creek-umc/2020/what-is-our-sacred-story|What is our sacred story?]] · 2020-10-08
 - **1 Corinthians 13:1**
     - [[covenant-umc/2024/pentecost|Pentecost]] · 2024-05-19
 - **1 Corinthians 13:1-13**
@@ -1787,15 +1807,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]] · 2022-01-23
 - **1 Corinthians 13:1-7**
     - Elizabeth and Scott · 2023-01-05
-- **1 Corinthians 13:12**
-    - [[bee-creek-umc/2021/the-church-in-the-present|The Church in the Present]] · 2021-10-24
-    - [[bee-creek-umc/2022/rescue|Rescue]] · 2022-07-17
-    - [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]] · 2024-01-28
-    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
-    - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
-    - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
-    - [[covenant-umc/2026/shining|Shining]] · 2026-02-15
-    - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
 - **1 Corinthians 13:4**
     - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]] · 2026-02-22
 - **1 Corinthians 13:4-5**
@@ -1806,20 +1817,29 @@ _361 sermons indexed._
     - Caroline Miller (Memorial Service) · 2022-12-16
 - **1 Corinthians 13:8-13**
     - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
+- **1 Corinthians 13:12**
+    - [[bee-creek-umc/2021/the-church-in-the-present|The Church in the Present]] · 2021-10-24
+    - [[bee-creek-umc/2022/rescue|Rescue]] · 2022-07-17
+    - [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]] · 2024-01-28
+    - [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]] · 2025-01-12
+    - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
+    - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
+    - [[covenant-umc/2026/shining|Shining]] · 2026-02-15
+    - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
 - **1 Corinthians 15**
     - [[covenant-umc/2026/come-and-see-the-trouble-come-and-start-rebuilding|Come and See the Trouble — Come and Start Rebuilding]] · 2026-04-12
 - **1 Corinthians 15:1-57**
     - A Service of Death and Resurrection (Funeral/Memorial Template) 
+- **1 Corinthians 15:3-22**
+    - [[covenant-umc/2025/easter-he-is-not-here-among-the-dead|Easter: He Is Not Here Among the Dead]] · 2025-04-20
+- **1 Corinthians 15:3-6**
+    - [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]] · 2022-12-04
 - **1 Corinthians 15:20**
     - [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]] · 2021-04-04
     - [[bee-creek-umc/2022/easter-sunrise-service|Easter Sunrise Service]] · 2022-04-17
     - [[covenant-umc/2024/easter-sunrise-service-chrysostom-sermon|Easter Sunrise Service (Chrysostom Sermon)]] · 2024-03-31
     - [[covenant-umc/2025/easter-sunrise-service-the-paschal-homily-of-st-john-chrysostom|Easter Sunrise Service: The Paschal Homily of St. John Chrysostom]] · 2025-04-20
     - [[covenant-umc/2026/easter-sunrise-service-chrysostom-s-paschal-homily|Easter Sunrise Service (Chrysostom's Paschal Homily)]] · 2026-04-05
-- **1 Corinthians 15:3-22**
-    - [[covenant-umc/2025/easter-he-is-not-here-among-the-dead|Easter: He Is Not Here Among the Dead]] · 2025-04-20
-- **1 Corinthians 15:3-6**
-    - [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]] · 2022-12-04
 - **1 Corinthians 15:32**
     - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it|What are we going to do about it?]] · 2020-12-20
     - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it-2|What Are We Going to Do About It?]] · 2020-12-20
@@ -1843,42 +1863,17 @@ _361 sermons indexed._
     - [[covenant-umc/2024/easter-sunrise-service-chrysostom-sermon|Easter Sunrise Service (Chrysostom Sermon)]] · 2024-03-31
     - [[covenant-umc/2025/easter-sunrise-service-the-paschal-homily-of-st-john-chrysostom|Easter Sunrise Service: The Paschal Homily of St. John Chrysostom]] · 2025-04-20
     - [[covenant-umc/2026/easter-sunrise-service-chrysostom-s-paschal-homily|Easter Sunrise Service (Chrysostom's Paschal Homily)]] · 2026-04-05
-- **1 Corinthians 1:18**
-    - [[bee-creek-umc/2023/holy-conferencing|Holy Conferencing]] · 2023-05-07
-- **1 Corinthians 1:18-25**
-    - [[bee-creek-umc/2021/restless-with-foolishness|Restless with Foolishness]] · 2021-03-07
-    - [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]] · 2024-03-03
-- **1 Corinthians 1:23-25**
-    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
-- **1 Corinthians 2:1-5**
-    - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]] · 2021-08-15
-- **1 Corinthians 4:5**
-    - [[bee-creek-umc/2021/rivals|Rivals]] · 2021-12-12
-- **1 Corinthians 6:19**
-    - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]] · 2021-01-10
-    - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
-- **1 Corinthians 7**
-    - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]] · 2021-04-11
-- **1 Corinthians 8:1**
-    - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]] · 2021-04-11
-- **1 Corinthians 9:14**
-    - [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]] · 2024-09-01
 
 ## 2 Corinthians
-- **2 Corinthians 12:2**
-    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
-    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
-- **2 Corinthians 12:9-10**
-    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
-- **2 Corinthians 1:20**
-    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
-    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
-    - [[bee-creek-umc/2022/i-believe-in-jesus-christ-his-only-son-our-lord|I Believe in Jesus Christ, His Only Son, Our Lord]] · 2022-10-16
 - **2 Corinthians 1:3-4**
     - [[covenant-umc/2024/eating-stones|Eating Stones]] · 2024-02-18
     - [[covenant-umc/2024/the-concrete-faith-of-thomas|The Concrete Faith of Thomas]] · 2024-04-07
 - **2 Corinthians 1:4**
     - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
+- **2 Corinthians 1:20**
+    - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]] · 2021-07-25
+    - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]] · 2021-08-01
+    - [[bee-creek-umc/2022/i-believe-in-jesus-christ-his-only-son-our-lord|I Believe in Jesus Christ, His Only Son, Our Lord]] · 2022-10-16
 - **2 Corinthians 2:14-15**
     - [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]] · 2020-11-29
 - **2 Corinthians 2:17**
@@ -1913,6 +1908,11 @@ _361 sermons indexed._
 - **2 Corinthians 7:1**
     - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]] · 2021-01-10
     - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
+- **2 Corinthians 12:2**
+    - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
+    - [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]] · 2022-12-11
+- **2 Corinthians 12:9-10**
+    - [[bee-creek-umc/2021/david-and-goliath|David and Goliath]] · 2021-07-18
 
 ## Galatians
 - **Galatians 2:15-20**
@@ -1925,10 +1925,10 @@ _361 sermons indexed._
     - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
     - [[covenant-umc/2025/sanctification|Sanctification]] · 2025-02-16
     - [[covenant-umc/2026/what-s-next-builders-and-names|What's Next? (Builders and Names)]] · 2026-04-19
-- **Galatians 4:22-31**
-    - [[bee-creek-umc/2020/hagar-sarah-and-the-birth-of-a-people|Hagar, Sarah, and the Birth of a People]] · 2020-08-01
 - **Galatians 4:4-7**
     - [[covenant-umc/2023/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]] · 2023-12-31
+- **Galatians 4:22-31**
+    - [[bee-creek-umc/2020/hagar-sarah-and-the-birth-of-a-people|Hagar, Sarah, and the Birth of a People]] · 2020-08-01
 - **Galatians 5:19-21**
     - [[bee-creek-umc/2023/credo-i-believe-in-the-holy-spirit|Credo: I Believe in the Holy Spirit]] · 2023-01-01
 - **Galatians 5:22**
@@ -1942,10 +1942,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2022/what-is-hope|What is Hope?]] · 2022-07-31
 - **Ephesians 2:1-10**
     - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]] · 2021-03-14
-- **Ephesians 2:13-14**
-    - [[covenant-umc/2024/healing-wounds|Healing Wounds]] · 2024-07-21
-- **Ephesians 2:14-22**
-    - [[bee-creek-umc/2023/i-believe-in-the-holy-catholic-church|I Believe in the Holy Catholic Church]] · 2023-01-08
 - **Ephesians 2:8**
     - [[bee-creek-umc/2020/god-s-love-a-deal-too-good-to-be-true|God's Love: A Deal Too Good to Be True]] · 2020-04-11
     - [[bee-creek-umc/2022/what-is-salvation|What is Salvation?]] · 2022-03-06
@@ -1953,12 +1949,16 @@ _361 sermons indexed._
     - [[covenant-umc/2026/light-of-the-world|Light of the World]] · 2026-02-08
 - **Ephesians 2:8-9**
     - [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]] · 2022-01-09
+- **Ephesians 2:13-14**
+    - [[covenant-umc/2024/healing-wounds|Healing Wounds]] · 2024-07-21
+- **Ephesians 2:14-22**
+    - [[bee-creek-umc/2023/i-believe-in-the-holy-catholic-church|I Believe in the Holy Catholic Church]] · 2023-01-08
+- **Ephesians 3:2**
+    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
 - **Ephesians 3:14-17**
     - [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]] · 2024-07-28
 - **Ephesians 3:14-19**
     - A Service of Death and Resurrection (Funeral/Memorial Template) 
-- **Ephesians 3:2**
-    - [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]] · 2024-11-10
 - **Ephesians 4:1-6**
     - [[covenant-umc/2024/the-bread-of-life-what-are-you-hungry-for|The Bread of Life: What Are You Hungry For?]] · 2024-08-04
 - **Ephesians 4:1-7**
@@ -1985,16 +1985,16 @@ _361 sermons indexed._
 - **Philippians 2:6-8**
     - [[covenant-umc/2024/eating-stones|Eating Stones]] · 2024-02-18
     - Peter Wants the Warmth Without the Weight · 2026-08-30
+- **Philippians 3:3-14**
+    - [[bee-creek-umc/2022/who-gets-to-be-saved|Who Gets to Be Saved]] · 2022-04-03
+- **Philippians 3:4-14**
+    - [[covenant-umc/2025/extravagant-faith-mary-s-anointing-and-the-gift-of-the-mitzvah|Extravagant Faith: Mary's Anointing and the Gift of the Mitzvah]] · 2025-04-06
 - **Philippians 3:12-14**
     - [[covenant-umc/2025/the-crown-of-salvation|The Crown of Salvation]] · 2025-10-12
 - **Philippians 3:17-21**
     - [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]] · 2022-03-20
 - **Philippians 3:17-4:1**
     - [[covenant-umc/2025/under-the-wing|Under the Wing]] · 2025-03-16
-- **Philippians 3:3-14**
-    - [[bee-creek-umc/2022/who-gets-to-be-saved|Who Gets to Be Saved]] · 2022-04-03
-- **Philippians 3:4-14**
-    - [[covenant-umc/2025/extravagant-faith-mary-s-anointing-and-the-gift-of-the-mitzvah|Extravagant Faith: Mary's Anointing and the Gift of the Mitzvah]] · 2025-04-06
 - **Philippians 4:5**
     - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
 - **Philippians 4:8**
@@ -2028,13 +2028,13 @@ _361 sermons indexed._
 ## 1 Thessalonians
 - **1 Thessalonians 1:2-3**
     - [[bee-creek-umc/2022/what-is-hope|What is Hope?]] · 2022-07-31
+- **1 Thessalonians 5:8**
+    - [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]] · 2024-08-25
 - **1 Thessalonians 5:16-23**
     - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it|What are we going to do about it?]] · 2020-12-20
     - [[bee-creek-umc/2020/what-are-we-going-to-do-about-it-2|What Are We Going to Do About It?]] · 2020-12-20
 - **1 Thessalonians 5:17**
     - [[covenant-umc/2025/prayer|Prayer]] · 2025-09-21
-- **1 Thessalonians 5:8**
-    - [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]] · 2024-08-25
 
 ## 1 Timothy
 - **1 Timothy 2:5-6**
@@ -2051,12 +2051,20 @@ _361 sermons indexed._
     - [[covenant-umc/2025/the-rescue|The Rescue]] · 2025-12-24
 
 ## Hebrews
+- **Hebrews 2:14**
+    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
+- **Hebrews 4:12**
+    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
+- **Hebrews 4:12-13**
+    - [[bee-creek-umc/2022/aerodynamics|Aerodynamics]] · 2022-05-08
+- **Hebrews 9:24-26**
+    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
+- **Hebrews 10:4-10**
+    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
 - **Hebrews 10:12-14**
     - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
 - **Hebrews 10:37**
     - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
-- **Hebrews 10:4-10**
-    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
 - **Hebrews 11:1**
     - [[bee-creek-umc/2022/what-is-hope|What is Hope?]] · 2022-07-31
     - [[covenant-umc/2024/the-concrete-faith-of-thomas|The Concrete Faith of Thomas]] · 2024-04-07
@@ -2066,10 +2074,10 @@ _361 sermons indexed._
     - Faith the Size of a Mustard Seed · 2026-07-26
 - **Hebrews 11:3**
     - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
-- **Hebrews 11:39-12:2**
-    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
 - **Hebrews 11:8-16**
     - [[bee-creek-umc/2020/hagar-sarah-and-the-birth-of-a-people|Hagar, Sarah, and the Birth of a People]] · 2020-08-01
+- **Hebrews 11:39-12:2**
+    - [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]] · 2025-08-24
 - **Hebrews 12:1-2**
     - [[bee-creek-umc/2023/i-believe-in-the-communion-of-the-saints|I Believe in the Communion of the Saints]] · 2023-01-15
 - **Hebrews 13:16**
@@ -2081,14 +2089,6 @@ _361 sermons indexed._
     - A Service of Death and Resurrection for David Bates · 2023-01-22
     - A Service of Death and Resurrection for Andy Williford · 2023-04-22
     - A Service of Death and Resurrection for Bruce Martin · 2023-06-15
-- **Hebrews 2:14**
-    - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]] · 2022-03-27
-- **Hebrews 4:12**
-    - [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]] · 2020-09-29
-- **Hebrews 4:12-13**
-    - [[bee-creek-umc/2022/aerodynamics|Aerodynamics]] · 2022-05-08
-- **Hebrews 9:24-26**
-    - [[bee-creek-umc/2020/sacrifice|Sacrifice]] · 2020-11-08
 
 ## James
 - **James 1:17-27**
@@ -2110,10 +2110,10 @@ _361 sermons indexed._
     - [[covenant-umc/2024/take-up-your-cross|Take Up Your Cross]] · 2024-09-15
 - **James 3:13-18**
     - [[covenant-umc/2024/last-place|Last Place]] · 2024-09-22
-- **James 5:13-20**
-    - [[covenant-umc/2024/whoever-is-not-against-us-denominations-control-and-how-you-follow-jesus|Whoever Is Not Against Us: Denominations, Control, and How You Follow Jesus]] · 2024-09-29
 - **James 5:7-8**
     - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17
+- **James 5:13-20**
+    - [[covenant-umc/2024/whoever-is-not-against-us-denominations-control-and-how-you-follow-jesus|Whoever Is Not Against Us: Denominations, Control, and How You Follow Jesus]] · 2024-09-29
 
 ## 1 Peter
 - **1 Peter 1:3-5**
@@ -2151,16 +2151,6 @@ _361 sermons indexed._
     - [[bee-creek-umc/2020/start-from-where-you-are|Start From Where You Are]] · 2020-08-23
 - **1 John 2:1**
     - [[bee-creek-umc/2020/jesus-our-advocate|Jesus Our Advocate]] · 2020-08-30
-- **1 John 2:12-14**
-    - [[bee-creek-umc/2020/you-are-strong|You Are Strong]] · 2020-10-25
-- **1 John 2:15-17**
-    - [[bee-creek-umc/2020/you-can-never-have-too-much-love|You Can Never Have Too Much Love]] · 2020-11-01
-- **1 John 2:21-22**
-    - [[bee-creek-umc/2020/antichrist-becoming-the-villain|Antichrist: Becoming the Villain]] · 2020-11-15
-- **1 John 2:23-25**
-    - [[bee-creek-umc/2020/learning-to-abide-the-means-of-grace|Learning to Abide: The Means of Grace]] · 2020-11-22
-- **1 John 2:26-27**
-    - [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]] · 2020-11-29
 - **1 John 2:3-6**
     - [[covenant-umc/2024/whose-name|Whose Name?]] · 2024-11-17
 - **1 John 2:4**
@@ -2173,8 +2163,16 @@ _361 sermons indexed._
     - [[bee-creek-umc/2020/animals-and-god-s-promise-children-s-message-the-true-light-already-shines|Animals and God's Promise (Children's Message): The True Light Already Shines]] · 2020-09-01
 - **1 John 2:9-11**
     - [[bee-creek-umc/2020/keeping-the-fire-of-love-burning|Keeping the Fire of Love Burning]] · 2020-10-04
-- **1 John 3:11-12**
-    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
+- **1 John 2:12-14**
+    - [[bee-creek-umc/2020/you-are-strong|You Are Strong]] · 2020-10-25
+- **1 John 2:15-17**
+    - [[bee-creek-umc/2020/you-can-never-have-too-much-love|You Can Never Have Too Much Love]] · 2020-11-01
+- **1 John 2:21-22**
+    - [[bee-creek-umc/2020/antichrist-becoming-the-villain|Antichrist: Becoming the Villain]] · 2020-11-15
+- **1 John 2:23-25**
+    - [[bee-creek-umc/2020/learning-to-abide-the-means-of-grace|Learning to Abide: The Means of Grace]] · 2020-11-22
+- **1 John 2:26-27**
+    - [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]] · 2020-11-29
 - **1 John 3:2**
     - [[bee-creek-umc/2020/having-the-son-living-a-more-real-life-by-faith|Having the Son: Living a More Real Life by Faith]] · 2020-05-30
 - **1 John 3:2-3**
@@ -2185,33 +2183,41 @@ _361 sermons indexed._
     - [[bee-creek-umc/2021/sin-as-rebellion-the-freedom-not-to-rebel|Sin as Rebellion: The Freedom Not to Rebel]] · 2021-01-03
 - **1 John 3:9**
     - [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]] · 2023-11-26
+- **1 John 3:11-12**
+    - [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]] · 2021-02-07
 - **1 John 4:1**
     - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]] · 2022-10-09
-- **1 John 4:16**
-    - [[bee-creek-umc/2020/not-a-new-commandment-god-s-love-is-old-not-trendy|Not a New Commandment: God's Love Is Old, Not Trendy]] · 2020-08-01
-- **1 John 4:20-21**
-    - [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]] · 2020-05-02
 - **1 John 4:4-6**
     - [[bee-creek-umc/2021/us-and-them|Us and Them]] · 2021-03-21
 - **1 John 4:7-10**
     - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]] · 2021-04-11
 - **1 John 4:7-13**
     - [[bee-creek-umc/2020/god-s-love-a-deal-too-good-to-be-true|God's Love: A Deal Too Good to Be True]] · 2020-04-11
+- **1 John 4:16**
+    - [[bee-creek-umc/2020/not-a-new-commandment-god-s-love-is-old-not-trendy|Not a New Commandment: God's Love Is Old, Not Trendy]] · 2020-08-01
+- **1 John 4:20-21**
+    - [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]] · 2020-05-02
 - **1 John 5:6-21**
     - [[bee-creek-umc/2020/having-the-son-living-a-more-real-life-by-faith|Having the Son: Living a More Real Life by Faith]] · 2020-05-30
 
 ## Revelation
-- **Revelation 12:1-10**
-    - [[bee-creek-umc/2022/heavenly-battles|Heavenly Battles]] · 2022-02-20
 - **Revelation 1:1-6**
     - [[bee-creek-umc/2022/alpha-and-omega|Alpha and Omega]] · 2022-02-06
+- **Revelation 1:8**
+    - A Service of Death and Resurrection for David Bates · 2023-01-22
+    - A Service of Death and Resurrection for Andy Williford · 2023-04-22
 - **Revelation 1:17-18**
     - A Service of Death and Resurrection for David Bates · 2023-01-22
     - A Service of Death and Resurrection for Andy Williford · 2023-04-22
     - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
-- **Revelation 1:8**
-    - A Service of Death and Resurrection for David Bates · 2023-01-22
-    - A Service of Death and Resurrection for Andy Williford · 2023-04-22
+- **Revelation 2:5**
+    - [[bee-creek-umc/2022/revelation-notes|Revelation Notes]] · 2022-01-31
+- **Revelation 3:15-16**
+    - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
+- **Revelation 4:1-11**
+    - [[bee-creek-umc/2022/who-sits-upon-the-throne|Who Sits Upon the Throne]] · 2022-02-13
+- **Revelation 12:1-10**
+    - [[bee-creek-umc/2022/heavenly-battles|Heavenly Battles]] · 2022-02-20
 - **Revelation 21:1**
     - [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]] · 2022-11-27
 - **Revelation 21:1-4**
@@ -2230,12 +2236,6 @@ _361 sermons indexed._
 - **Revelation 22:1-4**
     - [[bee-creek-umc/2022/what-do-we-hope-for|What do we hope for?]] · 2022-08-07
     - [[covenant-umc/2024/eternal-life|Eternal Life]] · 2024-08-18
-- **Revelation 2:5**
-    - [[bee-creek-umc/2022/revelation-notes|Revelation Notes]] · 2022-01-31
-- **Revelation 3:15-16**
-    - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
-- **Revelation 4:1-11**
-    - [[bee-creek-umc/2022/who-sits-upon-the-throne|Who Sits Upon the Throne]] · 2022-02-13
 
 ## 1 Maccabees
 - **1 Maccabees 4**
