@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Sermons · Wilson Pruitt"
-  pageTitleSuffix: ""
+  pageTitleSuffix: " · Sermons"
   enableSPA: true
   enablePopovers: true
   analytics: null

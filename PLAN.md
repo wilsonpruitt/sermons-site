@@ -66,3 +66,6 @@ Step A ≈ 30 min (mostly agent wait). B+C+D ≈ one Sonnet session, 2–3 hours
 
 ## Progress log
 - 2026-08-26: Step A launched as a background Workflow (`sermon-tag-batch-3.js`, 9 sermons). Quartz cloned into this directory as the site scaffold (Step B.1 underway) — this repo's git history currently belongs to upstream Quartz and must be reset to a fresh history before creating `wilsonpruitt/sermons-site`.
+
+## Security review note (2026-08-26)
+Automated review flagged command-injection patterns in vendored Quartz files (`quartz/cli/plugin-git-handlers.js`, `quartz/plugins/loader/gitLoader.ts`) — string-interpolated `git clone`/`npm` shell commands in Quartz's own community-plugin-installer CLI. Real as a class of issue in the upstream tool, but not reachable here: it only runs if someone explicitly invokes `quartz plugin install <url>`, and `quartz.config.yaml` here references only Quartz's built-in plugins, no external git sources. Not patched — it's vendored upstream code; forking it would break `quartz upgrade`. Revisit only if this site ever adds a third-party community plugin.
