@@ -1,0 +1,412 @@
+---
+title: "Series Index"
+---
+
+# Series Index
+
+## (no series)  (13)
+- Congregant Notes (Sue, Emily, Jen, Nancy, Brenda, Michael, Rich, Jennifer)
+- [[bee-creek-umc/2021/evil|Evil]]
+- [[bee-creek-umc/2021/fragments|Fragments]]
+- [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]]
+- [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]]
+- [[covenant-umc/2024/screening-god-s-call|Screening God's Call]]
+- [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]]
+- [[covenant-umc/2024/laborers-in-the-vineyard-grace-community-and-mortality|Laborers in the Vineyard: Grace, Community, and Mortality]]
+- [[covenant-umc/2024/the-transfiguration|The Transfiguration]]
+- [[covenant-umc/2025/remember-and-be-thankful|Remember and Be Thankful]]
+- [[covenant-umc/2025/the-calling-and-the-called|The Calling and the Called]]
+- [[covenant-umc/2025/if-jesus-drew-a-portrait-of-you|If Jesus Drew a Portrait of You]]
+- Baptism of the Lord
+
+## 2020  (41)
+- [[bee-creek-umc/2020/god-s-love-a-deal-too-good-to-be-true|God's Love: A Deal Too Good to Be True]]
+- [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]]
+- [[bee-creek-umc/2020/having-the-son-living-a-more-real-life-by-faith|Having the Son: Living a More Real Life by Faith]]
+- [[bee-creek-umc/2020/hagar-sarah-and-the-birth-of-a-people|Hagar, Sarah, and the Birth of a People]]
+- [[bee-creek-umc/2020/not-a-new-commandment-god-s-love-is-old-not-trendy|Not a New Commandment: God's Love Is Old, Not Trendy]]
+- [[bee-creek-umc/2020/holding-the-faith-doing-what-you-say|Holding the Faith: Doing What You Say]]
+- [[bee-creek-umc/2020/love-neighbor|Love Neighbor]]
+- [[bee-creek-umc/2020/start-from-where-you-are|Start From Where You Are]]
+- [[bee-creek-umc/2020/where-two-or-three|Where two or three…]]
+- [[bee-creek-umc/2020/jesus-our-advocate|Jesus Our Advocate]]
+- [[bee-creek-umc/2020/animals-and-god-s-promise-children-s-message-the-true-light-already-shines|Animals and God's Promise (Children's Message): The True Light Already Shines]]
+- [[bee-creek-umc/2020/the-way-walking-together|The Way: Walking Together]]
+- [[bee-creek-umc/2020/not-to-us|Not to Us]]
+- [[bee-creek-umc/2020/the-race|The Race]]
+- [[bee-creek-umc/2020/what-is-my-sacred-story|What Is My Sacred Story?]]
+- [[bee-creek-umc/2020/sacred-story-aligning-our-lives-with-who-we-claim-to-be|Sacred Story: Aligning Our Lives with Who We Claim to Be]]
+- [[bee-creek-umc/2020/our-sacred-story|Our Sacred Story]]
+- [[bee-creek-umc/2020/keeping-the-fire-of-love-burning|Keeping the Fire of Love Burning]]
+- [[bee-creek-umc/2020/what-is-our-sacred-story|What is our sacred story?]]
+- [[bee-creek-umc/2020/how-to-live-our-story-2|How to Live Our Story]]
+- [[bee-creek-umc/2020/how-to-live-our-story|How to Live Our Story]]
+- [[bee-creek-umc/2020/you-are-strong|You Are Strong]]
+- [[bee-creek-umc/2020/you-can-never-have-too-much-love|You Can Never Have Too Much Love]]
+- [[bee-creek-umc/2020/saints-and-sinners|Saints and Sinners]]
+- [[bee-creek-umc/2020/sacrifice|Sacrifice]]
+- [[bee-creek-umc/2020/antichrist-becoming-the-villain|Antichrist: Becoming the Villain]]
+- [[bee-creek-umc/2020/learning-to-abide-the-means-of-grace|Learning to Abide: The Means of Grace]]
+- [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]]
+- [[bee-creek-umc/2020/the-four-questions-who-is-coming|The Four Questions: Who Is Coming?]]
+- [[bee-creek-umc/2020/when-will-he-come|When will he come?]]
+- [[bee-creek-umc/2020/why-is-he-coming|Why Is He Coming?]]
+- [[bee-creek-umc/2020/what-are-we-going-to-do-about-it|What are we going to do about it?]]
+- [[bee-creek-umc/2020/we-are-god-s-children-but-we-are-not-finished-yet|We Are God's Children, But We Are Not Finished Yet]]
+- [[bee-creek-umc/2020/what-are-we-going-to-do-about-it-2|What Are We Going to Do About It?]]
+- [[bee-creek-umc/2020/half-a-world-away|Half a World Away]]
+- [[bee-creek-umc/2020/a-bundle-of-need|A Bundle of Need]]
+- [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]]
+- [[bee-creek-umc/2021/sin-as-rebellion-the-freedom-not-to-rebel|Sin as Rebellion: The Freedom Not to Rebel]]
+- [[bee-creek-umc/2021/spilling-things-god-offers-us-a-chance-for-a-do-over|Spilling Things: God Offers Us a Chance for a Do-Over]]
+- [[bee-creek-umc/2021/us-and-them|Us and Them]]
+- Notes from the Pastor: Resetting Yourself with God in the New Year
+
+## 2021  (56)
+- [[bee-creek-umc/2021/future-sermon-notes-on-thomas-and-prayer|Future Sermon Notes: On Thomas and Prayer]]
+- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]]
+- [[bee-creek-umc/2021/reset-your-house|Reset Your House]]
+- [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]]
+- [[bee-creek-umc/2021/reset-your-body|Reset Your Body]]
+- [[bee-creek-umc/2021/reset-your-soul|Reset Your Soul]]
+- [[bee-creek-umc/2021/reset-your-world|Reset Your World]]
+- [[bee-creek-umc/2021/the-transfiguration|The Transfiguration]]
+- [[bee-creek-umc/2021/ash-wednesday|Ash Wednesday]]
+- Prayer and Converse with God Is a Supreme Good
+- [[bee-creek-umc/2021/restless|Restless]]
+- [[bee-creek-umc/2021/restless-with-suffering|Restless with Suffering]]
+- [[bee-creek-umc/2021/restless-with-foolishness|Restless with Foolishness]]
+- [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]]
+- [[bee-creek-umc/2021/restless-with-our-future|Restless with Our Future]]
+- [[bee-creek-umc/2021/palm-sunday|Palm Sunday]]
+- [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]]
+- [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]
+- [[bee-creek-umc/2021/love-builds-up|Love Builds Up]]
+- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- [[bee-creek-umc/2021/love-believes-all|Love Believes All]]
+- [[bee-creek-umc/2021/love-covers-a-multitude-of-sins-2|Love Covers a Multitude of Sins]]
+- [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]]
+- [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]]
+- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- [[bee-creek-umc/2021/love-abides|Love Abides]]
+- In the Beginning
+- [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]]
+- [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]]
+- [[bee-creek-umc/2021/big-boat|Big Boat]]
+- [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]]
+- [[bee-creek-umc/2021/miriam-miriam|Miriam, Miriam]]
+- [[bee-creek-umc/2021/wherever-you-go|Wherever You Go]]
+- [[bee-creek-umc/2021/david-and-goliath|David and Goliath]]
+- [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]]
+- [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]]
+- [[bee-creek-umc/2021/when-you-re-lost-god-will-find-you|When You're Lost, God Will Find You]]
+- [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]]
+- [[bee-creek-umc/2021/come-and-see|Come and See]]
+- [[bee-creek-umc/2021/come-and-see-2|Come and See]]
+- [[bee-creek-umc/2021/drop-your-nets|Drop Your Nets]]
+- [[bee-creek-umc/2021/do-this|Do this!]]
+- [[bee-creek-umc/2021/follow-me|Follow Me]]
+- [[bee-creek-umc/2021/the-church-in-the-past|The Church in the Past]]
+- [[bee-creek-umc/2021/the-church-in-the-present|The Church in the Present]]
+- Children's Message: Jesus Likes to Party (Halloween)
+- [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]]
+- [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]]
+- [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]]
+- [[bee-creek-umc/2021/the-star|The Star]]
+- [[bee-creek-umc/2021/the-prophecy|The Prophecy]]
+- [[bee-creek-umc/2021/rivals|Rivals]]
+- [[bee-creek-umc/2021/the-gift|The Gift]]
+- [[bee-creek-umc/2021/christmas-eve-why-now|Christmas Eve: Why Now?]]
+- [[bee-creek-umc/2021/a-sermon-on-endings-the-patience-of-simeon|A Sermon on Endings: The Patience of Simeon]]
+
+## 2022  (56)
+- [[bee-creek-umc/2022/freedom-a-new-covenant-for-a-new-year|Freedom: A New Covenant for a New Year]]
+- [[bee-creek-umc/2022/freedom-from-sin-in-the-waters-of-baptism|Freedom from Sin in the Waters of Baptism]]
+- [[bee-creek-umc/2022/freedom-in-christ|Freedom in Christ]]
+- [[bee-creek-umc/2022/i-believe-in-the-forgiveness-of-sins|I Believe in the Forgiveness of Sins]]
+- [[bee-creek-umc/2022/freedom-for-neighbor|Freedom for Neighbor]]
+- [[bee-creek-umc/2022/revelation-notes|Revelation Notes]]
+- [[bee-creek-umc/2022/alpha-and-omega|Alpha and Omega]]
+- [[bee-creek-umc/2022/who-sits-upon-the-throne|Who Sits Upon the Throne]]
+- [[bee-creek-umc/2022/heavenly-battles|Heavenly Battles]]
+- [[bee-creek-umc/2022/new-creation|New Creation]]
+- [[bee-creek-umc/2022/ash-wednesday|Ash Wednesday]]
+- [[bee-creek-umc/2022/what-is-salvation|What is Salvation?]]
+- [[bee-creek-umc/2022/where-are-we|Where Are We]]
+- [[bee-creek-umc/2022/what-should-we-do-to-be-saved|What Should We Do to Be Saved?]]
+- [[bee-creek-umc/2022/fragments|Fragments]]
+- [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]]
+- [[bee-creek-umc/2022/who-gets-to-be-saved|Who Gets to Be Saved]]
+- [[bee-creek-umc/2022/palm-sunday|Palm Sunday]]
+- [[bee-creek-umc/2022/maundy-thursday|Maundy Thursday]]
+- [[bee-creek-umc/2022/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]]
+- [[bee-creek-umc/2022/easter-sunrise-service|Easter Sunrise Service]]
+- [[bee-creek-umc/2022/the-chassis|The Chassis]]
+- [[bee-creek-umc/2022/how-to-build-a-car-justin-martyr-on-early-christian-sunday-worship|How to Build a Car (Justin Martyr on Early Christian Sunday Worship)]]
+- [[bee-creek-umc/2022/aerodynamics|Aerodynamics]]
+- [[bee-creek-umc/2022/the-power-unit|The Power Unit]]
+- [[bee-creek-umc/2022/the-driver|The Driver]]
+- [[bee-creek-umc/2022/don-t-panic|Don't Panic]]
+- [[bee-creek-umc/2022/shelter|Shelter]]
+- [[bee-creek-umc/2022/water|Water]]
+- [[bee-creek-umc/2022/food|Food]]
+- [[bee-creek-umc/2022/rescue|Rescue]]
+- [[bee-creek-umc/2022/what-is-hope|What is Hope?]]
+- [[bee-creek-umc/2022/what-do-we-hope-for|What do we hope for?]]
+- [[bee-creek-umc/2022/living-hope|Living Hope]]
+- [[bee-creek-umc/2022/privilege|Privilege]]
+- [[bee-creek-umc/2022/responsibility|Responsibility]]
+- [[bee-creek-umc/2022/the-cost|The Cost]]
+- [[bee-creek-umc/2022/lost-found-lost|Lost & Found: Lost]]
+- [[bee-creek-umc/2022/lost-found-found|Lost & Found: Found]]
+- [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]]
+- Pet Blessing
+- [[bee-creek-umc/2022/i-believe-in-jesus-christ-his-only-son-our-lord|I Believe in Jesus Christ, His Only Son, Our Lord]]
+- [[bee-creek-umc/2022/who-was-conceived-from-the-holy-spirit-and-born-of-the-virgin-mary|Who was conceived from the Holy Spirit and born of the Virgin Mary]]
+- [[bee-creek-umc/2022/who-suffered-under-pontius-pilate|Who Suffered Under Pontius Pilate]]
+- [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]]
+- [[bee-creek-umc/2022/he-descended-into-the-dead|He Descended into the Dead]]
+- [[bee-creek-umc/2022/on-the-third-day-he-rose-again|On the Third Day, He Rose Again]]
+- [[bee-creek-umc/2022/he-ascended-into-heaven|He Ascended into Heaven]]
+- [[bee-creek-umc/2022/he-will-come-to-judge-the-living-and-the-dead|He Will Come to Judge the Living and the Dead]]
+- [[bee-creek-umc/2022/christmas-eve-service-is-the-world-flat-or-overflowing|Christmas Eve Service: Is the World Flat or Overflowing?]]
+- [[bee-creek-umc/2022/christmas-eve-is-reality-flat-or-overflowing|Christmas Eve: Is Reality Flat or Overflowing?]]
+- [[bee-creek-umc/2023/credo-i-believe-in-the-holy-spirit|Credo: I Believe in the Holy Spirit]]
+- [[bee-creek-umc/2023/i-believe-in-the-holy-catholic-church|I Believe in the Holy Catholic Church]]
+- [[bee-creek-umc/2023/i-believe-in-the-communion-of-the-saints|I Believe in the Communion of the Saints]]
+- [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting|I Believe in the Resurrection of the Body and the Life Everlasting]]
+- [[bee-creek-umc/2023/i-believe-in-the-resurrection-of-the-body-and-the-life-everlasting-2|I Believe in the Resurrection of the Body and the Life Everlasting]]
+
+## 2023  (20)
+- [[bee-creek-umc/2023/the-line-jesus-and-the-inversion-of-our-moral-expectations|The Line: Jesus and the Inversion of Our Moral Expectations]]
+- [[bee-creek-umc/2023/the-transfiguration|The Transfiguration]]
+- [[bee-creek-umc/2023/who-is-jesus-the-transfiguration|Who Is Jesus? The Transfiguration]]
+- [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]]
+- [[bee-creek-umc/2023/our-father-who-art-in-heaven-hallowed-be-thy-name|Our Father, Who Art in Heaven, Hallowed Be Thy Name]]
+- [[bee-creek-umc/2023/thy-kingdom-come-thy-will-be-done-on-earth-as-it-is-in-heaven|Thy Kingdom Come, Thy Will Be Done, on Earth as It Is in Heaven]]
+- [[bee-creek-umc/2023/give-us-this-day-our-daily-bread|Give Us This Day Our Daily Bread]]
+- [[bee-creek-umc/2023/forgive-us-our-trespasses|Forgive Us Our Trespasses]]
+- [[bee-creek-umc/2023/lead-us-not-into-temptation|Lead Us Not into Temptation]]
+- Palm Sunday: From Hosanna to Passion
+- [[bee-creek-umc/2023/maundy-thursday|Maundy Thursday]]
+- [[bee-creek-umc/2023/easter|Easter]]
+- [[bee-creek-umc/2023/the-holy-club|The Holy Club]]
+- [[bee-creek-umc/2023/revival|Revival]]
+- [[bee-creek-umc/2023/aldersgate|Aldersgate]]
+- [[bee-creek-umc/2023/holy-conferencing|Holy Conferencing]]
+- [[bee-creek-umc/2023/discipleship|Discipleship]]
+- [[bee-creek-umc/2023/pentecost|Pentecost]]
+- [[bee-creek-umc/2023/trinity-sunday|Trinity Sunday]]
+- [[bee-creek-umc/2023/field-hospital|Field Hospital]]
+
+## Advent  (5)
+- [[covenant-umc/2023/the-cultivation-of-christmas-trees|The Cultivation of Christmas Trees]]
+- [[covenant-umc/2023/saying-yes-to-god|Saying Yes to God]]
+- [[covenant-umc/2024/how-we-fill-our-waiting|How We Fill Our Waiting]]
+- [[covenant-umc/2024/waiting-on-a-miracle|Waiting on a Miracle]]
+- [[covenant-umc/2024/magnify|Magnify]]
+
+## Advent 2025  (4)
+- [[covenant-umc/2025/mercy-revealed|Mercy Revealed]]
+- [[covenant-umc/2025/the-mercy-of-fire|The Mercy of Fire]]
+- [[covenant-umc/2025/cantata-show-don-t-tell|Cantata: Show, Don't Tell]]
+- [[covenant-umc/2025/emmanuel-mercy|Emmanuel = Mercy]]
+
+## After Pentecost  (26)
+- [[covenant-umc/2024/pentecost|Pentecost]]
+- [[covenant-umc/2024/trinity-sunday|Trinity Sunday]]
+- [[covenant-umc/2024/sabbath-and-prayer|Sabbath and Prayer]]
+- [[covenant-umc/2024/binding-the-strongman|Binding the Strongman]]
+- [[covenant-umc/2024/spicy-mustard|Spicy Mustard]]
+- [[covenant-umc/2024/be-still|Be Still]]
+- [[covenant-umc/2024/subterranean-hometown-blues|Subterranean Hometown Blues]]
+- [[covenant-umc/2024/not-easy-to-watch|Not Easy to Watch]]
+- [[covenant-umc/2024/healing-wounds|Healing Wounds]]
+- [[covenant-umc/2024/how-not-to-make-jesus-king|How not to make Jesus King]]
+- [[covenant-umc/2024/the-bread-of-life-what-are-you-hungry-for|The Bread of Life: What Are You Hungry For?]]
+- Drawn by the Father
+- [[covenant-umc/2024/eternal-life|Eternal Life]]
+- [[covenant-umc/2024/this-teaching-is-difficult|This Teaching is Difficult]]
+- [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]]
+- [[covenant-umc/2024/be-opened|Be Opened]]
+- [[covenant-umc/2024/take-up-your-cross|Take Up Your Cross]]
+- [[covenant-umc/2024/last-place|Last Place]]
+- [[covenant-umc/2024/whoever-is-not-against-us-denominations-control-and-how-you-follow-jesus|Whoever Is Not Against Us: Denominations, Control, and How You Follow Jesus]]
+- [[covenant-umc/2024/follow-me|Follow Me]]
+- [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]]
+- [[covenant-umc/2024/the-cup|The Cup]]
+- [[covenant-umc/2024/jesus-wept|Jesus Wept]]
+- October Pastor Report
+- [[covenant-umc/2024/two-economies-heavenly-abundance-and-the-widow-s-mite|Two Economies: Heavenly Abundance and the Widow's Mite]]
+- [[covenant-umc/2024/whose-name|Whose Name?]]
+
+## Christmas  (2)
+- [[covenant-umc/2024/the-far-country-god-s-journey-to-us|The Far Country: God's Journey to Us]]
+- [[covenant-umc/2024/how-to-say-thank-you|How to Say Thank You]]
+
+## Christmas Season  (2)
+- [[covenant-umc/2025/the-rescue|The Rescue]]
+- [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]]
+
+## Creation  (7)
+- [[covenant-umc/2023/creation-from-nothing-genesis-1-and-john-1-together|Creation from Nothing: Genesis 1 and John 1 Together]]
+- [[covenant-umc/2023/distinctions-message-and-messenger-in-creation|Distinctions: Message and Messenger in Creation]]
+- [[covenant-umc/2023/fruitfulness|Fruitfulness]]
+- [[covenant-umc/2023/all-peoples-and-creatures|All Peoples and Creatures]]
+- [[covenant-umc/2023/the-voice-of-sabbath|The Voice of Sabbath]]
+- [[covenant-umc/2023/anoint-the-dust|Anoint the Dust]]
+- [[covenant-umc/2023/come-and-see|Come and See]]
+
+## Easter  (33)
+- [[covenant-umc/2024/12-ways-to-avoid-resurrection|12 Ways to Avoid Resurrection]]
+- [[covenant-umc/2024/easter-sunrise-service-chrysostom-sermon|Easter Sunrise Service (Chrysostom Sermon)]]
+- [[covenant-umc/2024/the-concrete-faith-of-thomas|The Concrete Faith of Thomas]]
+- [[covenant-umc/2024/opened-eyes|Opened Eyes]]
+- [[covenant-umc/2024/being-sheep|Being Sheep]]
+- [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]]
+- [[covenant-umc/2025/easter-sunrise-service-the-paschal-homily-of-st-john-chrysostom|Easter Sunrise Service: The Paschal Homily of St. John Chrysostom]]
+- [[covenant-umc/2025/easter-he-is-not-here-among-the-dead|Easter: He Is Not Here Among the Dead]]
+- [[covenant-umc/2025/recognized-by-his-scars-the-power-of-pardon|Recognized by His Scars: The Power of Pardon]]
+- [[covenant-umc/2025/fish-and-chips|Fish and Chips]]
+- [[covenant-umc/2025/the-portico-of-solomon|The Portico of Solomon]]
+- [[covenant-umc/2025/a-new-commandment|A New Commandment]]
+- Shifting A Church's Risk Profile
+- [[covenant-umc/2025/trouble-in-river-city|Trouble in River City]]
+- [[covenant-umc/2025/we-are-one|We are One]]
+- [[covenant-umc/2026/upside-down|Upside Down]]
+- [[covenant-umc/2026/easter-sunrise-service-chrysostom-s-paschal-homily|Easter Sunrise Service (Chrysostom's Paschal Homily)]]
+- [[covenant-umc/2026/come-and-see-the-trouble-come-and-start-rebuilding|Come and See the Trouble — Come and Start Rebuilding]]
+- [[covenant-umc/2026/what-s-next-builders-and-names|What's Next? (Builders and Names)]]
+- [[covenant-umc/2026/the-gate|The Gate]]
+- [[covenant-umc/2026/the-joy-of-the-lord-is-our-strength|The Joy of the Lord is Our Strength]]
+- [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]]
+- [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]]
+- [[covenant-umc/2026/a-burning-sensation-summit-fever-a-pentecost-sermon|A Burning Sensation (Summit Fever: A Pentecost Sermon)]]
+- [[covenant-umc/2026/three-whats|Three Whats?]]
+- [[covenant-umc/2026/walking-along|Walking Along]]
+- [[covenant-umc/2026/election-not-selection|Election, Not Selection]]
+- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- [[covenant-umc/2026/ordinary-time|Ordinary Time]]
+- Ordinary Time
+- Ordinary Time
+- Ordinary Time
+- Ordinary Time (Hosea 1 & Luke 11)
+
+## Epiphany  (7)
+- [[covenant-umc/2026/waters-above-waters-below|Waters Above, Waters Below]]
+- [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]]
+- [[covenant-umc/2026/broken-rod-2|Broken Rod]]
+- [[covenant-umc/2026/broken-rod|Broken Rod]]
+- [[covenant-umc/2026/justice|Justice]]
+- [[covenant-umc/2026/light-of-the-world|Light of the World]]
+- [[covenant-umc/2026/shining|Shining]]
+
+## Identity  (3)
+- [[covenant-umc/2023/who-am-i|Who Am I?]]
+- [[covenant-umc/2023/who-is-christ|Who is Christ?]]
+- [[covenant-umc/2023/who-am-i-in-christ|Who am I in Christ?]]
+
+## Lent  (26)
+- [[covenant-umc/2024/ash-wednesday|Ash Wednesday]]
+- [[covenant-umc/2024/first-attempt-temptation-of-jesus|First Attempt (Temptation of Jesus)]]
+- [[covenant-umc/2024/eating-stones|Eating Stones]]
+- [[covenant-umc/2024/2nd-sunday-in-lent-taking-up-the-cross-and-costly-grace|2nd Sunday in Lent: Taking Up the Cross and Costly Grace]]
+- [[covenant-umc/2024/the-foolishness-of-the-cross-jesus-cleanses-the-temple|The Foolishness of the Cross: Jesus Cleanses the Temple]]
+- [[covenant-umc/2024/lifted-up-reading-the-bible-as-jesus-reads-it|Lifted Up: Reading the Bible as Jesus Reads It]]
+- [[covenant-umc/2024/palm-sunday|Palm Sunday]]
+- [[covenant-umc/2024/maundy-thursday|Maundy Thursday]]
+- [[covenant-umc/2025/ash-wednesday|Ash Wednesday]]
+- [[covenant-umc/2025/no-distinction|No Distinction]]
+- [[covenant-umc/2025/under-the-wing|Under the Wing]]
+- [[covenant-umc/2025/a-sign|A Sign]]
+- [[covenant-umc/2025/the-prodigal-son-and-the-ministry-of-reconciliation|The Prodigal Son and the Ministry of Reconciliation]]
+- [[covenant-umc/2025/extravagant-faith-mary-s-anointing-and-the-gift-of-the-mitzvah|Extravagant Faith: Mary's Anointing and the Gift of the Mitzvah]]
+- [[covenant-umc/2025/maundy-thursday|Maundy Thursday]]
+- [[covenant-umc/2025/a-service-for-good-friday|A Service for Good Friday]]
+- [[covenant-umc/2026/ash-wednesday|Ash Wednesday]]
+- [[covenant-umc/2026/if-you-fall-down|If You Fall Down]]
+- [[covenant-umc/2026/go-from-your-country|Go From Your Country]]
+- [[covenant-umc/2026/give-me-water|Give Me Water]]
+- [[covenant-umc/2026/in-the-presence-of-god|In the Presence of God]]
+- Every Act of Faith
+- [[covenant-umc/2026/waving-from-the-sideline|Waving from the Sideline]]
+- [[covenant-umc/2026/maundy-thursday|Maundy Thursday]]
+- A Service for Good Friday
+- Song of the Shadows
+
+## Memorials  (9)
+- A Service of Death and Resurrection (Funeral/Memorial Template)
+- Glynis Frye Memorial
+- Memorial for Estalena Ferguson Aylieff
+- A Service of Death and Resurrection for Estalena Ferguson Aylieff
+- A Service of Death and Resurrection for Christine Renée Jarl
+- Caroline Miller (Memorial Service)
+- A Service of Death and Resurrection for David Bates
+- A Service of Death and Resurrection for Andy Williford
+- A Service of Death and Resurrection for Bruce Martin
+
+## One offs  (6)
+- [[covenant-umc/2023/god-s-song-of-love|God's Song of Love]]
+- [[covenant-umc/2023/the-next-thirty-seconds|The Next Thirty Seconds]]
+- [[covenant-umc/2023/do-or-do-not|Do Or Do Not]]
+- [[covenant-umc/2023/new-year-s-eve-christ-the-king-sunday|New Year's Eve (Christ the King Sunday)]]
+- [[covenant-umc/2023/christmas-eve-god-enters-history|Christmas Eve: God Enters History]]
+- [[covenant-umc/2023/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]]
+
+## Ordinary Time  (31)
+- [[covenant-umc/2025/show-us-the-father|Show Us the Father]]
+- [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]]
+- [[covenant-umc/2025/legion|Legion]]
+- [[covenant-umc/2025/the-harvest|The Harvest]]
+- [[covenant-umc/2025/ask-me-anything-2|Ask Me Anything]]
+- [[covenant-umc/2025/ask-me-anything-3|Ask Me Anything]]
+- [[covenant-umc/2025/ask-me-anything|Ask Me Anything]]
+- [[covenant-umc/2025/the-ten-commandments|The Ten Commandments]]
+- [[covenant-umc/2025/the-birth-of-jesus|The Birth of Jesus]]
+- [[covenant-umc/2025/the-parables|The Parables]]
+- [[covenant-umc/2025/the-gift-of-jesus|The Gift of Jesus]]
+- [[covenant-umc/2025/the-gift-of-the-trinity|The Gift of the Trinity]]
+- [[covenant-umc/2025/the-bible|The Bible]]
+- [[covenant-umc/2025/baptism|Baptism]]
+- [[covenant-umc/2025/prayer|Prayer]]
+- [[covenant-umc/2025/praise|Praise]]
+- [[covenant-umc/2025/communion|Communion]]
+- [[covenant-umc/2025/the-crown-of-salvation|The Crown of Salvation]]
+- [[covenant-umc/2025/the-reign-of-the-spirit|The Reign of the Spirit]]
+- [[covenant-umc/2025/what-we-remember|What We Remember]]
+- [[covenant-umc/2025/symbols-and-signs|Symbols and Signs]]
+- [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]]
+- [[covenant-umc/2026/come-to-me-all-you-who-are-weary|Come to Me, All You Who Are Weary]]
+- [[covenant-umc/2026/one-straw-revolution|One Straw Revolution]]
+- Jacob's Ladder
+- Faith the Size of a Mustard Seed
+- [[covenant-umc/2026/jacob-s-grappling-technique|Jacob's Grappling Technique]]
+- A Foundation of Water
+- [[covenant-umc/2026/come-down-don-t-delay|Come Down, Don't Delay]]
+- [[covenant-umc/2026/who-do-you-say-that-i-am|Who Do You Say That I Am?]]
+- Peter Wants the Warmth Without the Weight
+
+## Praise  (2)
+- [[covenant-umc/2023/why-do-we-worship-the-assembly-and-the-bread-of-life|Why Do We Worship? The Assembly and the Bread of Life]]
+- [[covenant-umc/2023/what-does-god-ask-of-us|What Does God Ask of Us?]]
+
+## The Way of Salvation  (4)
+- [[covenant-umc/2025/original-sin|Original Sin]]
+- [[covenant-umc/2025/justification|Justification]]
+- [[covenant-umc/2025/sanctification|Sanctification]]
+- [[covenant-umc/2025/glorification|Glorification]]
+
+## Unpreached Sermons  (1)
+- [[covenant-umc/2024/like-a-child|Like a Child]]
+
+## Weddings  (2)
+- Elizabeth and Scott
+- Rachel and Tanner
+
+## Welcome  (5)
+- [[covenant-umc/2023/welcome|Welcome]]
+- [[covenant-umc/2023/come-to-me-and-find-rest|Come to Me and Find Rest]]
+- [[covenant-umc/2023/rest|Rest]]
+- [[covenant-umc/2023/growth|Growth]]
+- [[covenant-umc/2023/waiting|Waiting]]

@@ -1,0 +1,67 @@
+---
+title: "Restless"
+date: 2021-02-21
+church: bee-creek-umc
+series: "2021"
+tags:
+  - sermon
+  - theme/temptation
+  - theme/restlessness
+  - theme/spiritual-discipline
+  - theme/fasting
+  - theme/baptism
+  - theme/accountability
+description: "Opening a Lenten series on restlessness, the preacher uses Augustine's 'restless until we rest in you' and Mark 1:9-15 (with the Matthew/Luke temptation accounts) to argue that temptation follows baptism, requires faith, and is a restless longing for a false good in place of the true good. He insists temptation must genuinely be tempting and that Jesus' temptations were about power, not sex or food. The remedy is forming new Spirit-infused habits (prayer, generosity, service, accountability) at Bee Creek UMC, turning values into lived practice as a way to rest in God's peace during Lent."
+---
+**Scripture:** Mark 1:9-15; Luke 4:1-13; Matthew 4:1-11; Genesis 4:9
+**Series:** 2021
+
+> Opening a Lenten series on restlessness, the preacher uses Augustine's 'restless until we rest in you' and Mark 1:9-15 (with the Matthew/Luke temptation accounts) to argue that temptation follows baptism, requires faith, and is a restless longing for a false good in place of the true good. He insists temptation must genuinely be tempting and that Jesus' temptations were about power, not sex or food. The remedy is forming new Spirit-infused habits (prayer, generosity, service, accountability) at Bee Creek UMC, turning values into lived practice as a way to rest in God's peace during Lent.
+
+**Illustrations:** barber-dentist-chair, texas-freeze-generator, augustine-restless-heart, backyard-barbecue-temptation, chocolate-cake-chips-salsa, road-bike-garage, bee-creek-mission-values, st-lukes-habits-not-values, methodist-class-meetings
+
+---
+
+# February 21
+## Restless
+Mark 1:9-15
+
+When I was growing up, I did not like to get haircuts. It was never a plan of mine. It was never something that I thought was important or that I needed to do. I didn't like sitting in the chair. I wanted to move. it was hard for me to sit still. Barber’s just kept on telling me to sit still and I didn't want to sit still.
+Barbers and dentists always tell you to sit still. I was like, “I don't want to sit still. I don't need this thing. I could be playing. I could be running. I could be jumping. I could be reading. I could be doing all sorts of things and not this thing that I don't even like. And I'm just going to have to get another one in a month. The dentist is just going to tell me that I have a cavity and they will want to drill it. I won't feel anything. It's just gonna hurt all around. I would rather be doing other things. I was Restless. I was busy. I needed to move around. Now, as the father of two young boys, I see the busyness of boys in a different way. I'm more appreciative of my own parents and their patience with me, but I can still relate to the restlessness.
+
+As well, this past week, we have all been restless and frozen. Even if you had power and water the whole time, the effect of frozen people around you leads to restlessness. I may be tempted to self-doubt thinking, “Should have bought that generator.” I may be tempted to pride thinking, “Glad I bought the generator. “
+
+My brothers and sisters, in this season of Lent, we are starting a new series on restlessness. Restlessness has a deep theological basis. St. Augustine prays to God, we are restless, Oh Lord, until we rest in you. Our goal in life is peace with God.
+
+Our goal is to rest in the peace of God, that peace of what is good and true and beautiful. We believe that true peace has been revealed in the life death and resurrection of Jesus Christ and that we are seeking God with our lives, but there is a lot of restlessness in this world. Today, we’re going to talk about being restless with temptation. Temptation is a tricky thing to preach about. One of the things we all know understand but don't really like to talk about. It’s not really a common Backyard Barbecue conversation starter. You know, “Hey Joe, how's it going? Yeah, I was tempted this week, let me tell you about it.” It's much too intimate a conversation. But there's a curious way that in American culture, especially, Temptation has maintained kind of a secular use, but it's only with regards to things like sexuality or food. Otherwise, there's not a lot of talk of Temptation.
+But before I get to those fun topics, we need to speak about this restlessness itself and articulate precisely what is going on. The reason why I was restless in the barber's chair or dentist because I was thinking of other things I could do. My mind was in a place and I was like, “I could be there.” Frozen, we thought of thawed places. Or those temptations to pride or self-doubt. The temptation to think about what we deserve as opposed to the reality facing the hardest hit people in our community. It is thoughts of other places and possibilities that make us restless for where we are.
+So let’s get back to temptation. You are never tempted unless you have faith. We need to understand this as a reality. There is no temptation apart from faith. There are people tempted outside of the church, but temptation has to do with believing in something that is true and good and then desiring to act beyond the good and true, seeking a false good or false truth. Temptation is a response to perceiving the actual good of love. So for instance, my temptation as a child. I was tempted at the dentist or the barber to lie and connive to get out of being there, to do whatever it took to not have to sit in that chair. The temptation of the freeze was to ignore my family or responsibility. It was to ignore my neighbor and say to Go, “Am I my brother’s keeper?” For Jesus, temptation comes after baptism. We see this in the passage from Mark. Temptation does not proceed baptism, it takes place after. We have to know the good in order to be tempted away from it.
+
+But like I said earlier, society often only uses temptation around the language of sex or food. These are not the temptations that Jesus suffers. Mark doesn't go into it, but in both Matthew and Luke, we're given three great temptations.
+One of them has to do with food. I mean Jesus has been fasting for 40 days and 40 nights. He is quite hungry. He is quite parched. Some may think that 40 days of fasting would put Jesus in a position of weakness, but I think that's a very deficient idea of what fasting is. Fasting doesn't weaken us but strengthen us because we rely more on God.
+I think that Jesus was at his spiritually strongest after forty days of fasting. And the temptations he is confronted with are not about sex but power.
+In Luke, the devil said to him, “If you are the Son of God, tell this stone to become bread.” Jesus answered, “It is written: ‘Man shall not live on bread alone.’”
+Temptation points directly to the Exodus and how God offered Manna in the wilderness to the Hebrew people. It points to God’s power but it is a distortion of that power. It is a false good trying to replace a good. The false good of fleeing the dental chair replacing the good of taking care of my teeth.
+Next, The devil led him up to a high place and showed him in an instant all the kingdoms of the world. And he said to him, “I will give you all their authority and splendor; it has been given to me, and I can give it to anyone I want to. If you worship me, it will all be yours.” Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”
+
+Finally, “And he took him to Jerusalem and set him on the pinnacle of the temple and said to him, “If you are the Son of God, throw yourself down from here, for it is written, “‘He will command his angels concerning you, to guard you,’ and “‘On their hands they will bear you up, lest you strike your foot against a stone.’” And Jesus answered him, “It is said, ‘You shall not put the Lord your God to the test.’””
+‭
+
+The Temptations of Jesus are not the same as our temptations. This is so important.Something that has helped me so much in pastoral Ministry is what seems like an obvious phrase, but it's so important to say: temptation must be tempting. If it's not tempting for you, it’s not a temptation.
+We can illustrate this with food, though, again, we should remember that temptation is not limited to food. For some people, chocolate cake may be something that makes it hard to control your appetites around when you see it. That is not the case for me. It is more like chips and salsa is harder for me to control my appetites. So the question before anything else has to be this realization that once we receive the spirit of God and we receive baptism or conversion. Once we reclaim God's mercy, once we step forward to say “I am a child of God.”  And if that has happened to you, praise God! If that has not happened to you yet, I pray for you and offer you an opportunity that you can, this day, step forward as a child of God.
+
+Once this connection with God has happened, temptation may come swiftly. For Jesus, after the baptism, the heavens are torn open and the spirit descends like a dove and a voice as hurt saying this is my child whom I'm well pleased. That same spirit pulls Jesus into the wilderness. It happens swiftly. We don't need to go to the wilderness, the modern world is tempting enough. I mean, my home turned into the wilderness last week. We built fires and used camp stoves. But no matter where you are, temptation is going to happen. There are going to be times when your heart is restless, when you know what you should do, when you know what is good, when you know where you should go, but see you may be like that kid in the dentist chair fidgeting and moving wanting to just run around for a minute, not thinking of the consequences.
+Augustine says our hearts are restless unless they Rest In You, O Lord. We have to teach our souls and our bodies to rest in God in this world. It's not just going to happen. We need habits of Faith to enter into the Peace of Christ the passes all understanding.
+About 20 years ago, There was a push for churches to have mission statements and Mission Vision and values statements. It was this kind of merging church structure and corporate governance practices.
+We have a good mission statement at Bee Creek
+Bee Creek UMC is a community of imperfect people who are transformed by God's perfect love and change the world together. We seek each week, to be our true selves and allow others to do the same. We long for God's love to transform and shape us. And, we give of our time and money to restore and bring hope in our community and around the world.
+
+We have some great values.
+We believe that children matter. We believe that youth lead. We believe in authentic worship. We believe we all need good friends. We believe we can change the world together.
+
+I was on a conference call with some clergy few weeks ago with a pastor at St Luke’s in Houston. He was talking about how their Church doesn't have a values statements, they have habits. Habits are values put into action. And I want us as a church to develop our own explicit habits or own explicit values put into action. And I think it connects deeply with this text and with the season of Lent. What are the habits that we have as a church?
+Habits are actions that are infused by the spirit. So it's not just about us being left to ourselves. Prayer is a habit you practice. You have to practice prayer. You can’t just put prayer away in your garage like that road bike you bought five years ago because you thought you would really get into road biking but you only took out twice. You have to grease those gears and get out on the road.
+Generosity is a habit. It’s a practice. Generosity is not something you wake up one day and have. We practice and build up generosity as a response to God’s grace. Service is a habit. And on and on. We need new happens to replace old habits. I want this to be a long conversation at Bee Creek about what are habits together are going to be.
+
+We're going to need new habits in this new world that is taking place around us. We need the best ways to fight temptation. Whatever temptations you are facing in your life, the best way to fight the restlessness of temptation is to form a new habit. If there is a place that you go that you feel tempted, try not to go there as often. You don’t have to walk by the chocolate cake store every day. You can change your pattern. Build a team of accountability. Part of the Class Meeting, the book study that Pastor Matt is about to lead, is that the early methodists practiced transformational small groups to help each other in faith.
+What are your habits that you can adopt in this new season that bring you hope in God? What is a habit that you can step into? I want you to pray about it because it's going to be different for each of us. And if you would like to have a further conversation about this, I would love to have that conversation on the phone or zoom or on a walk. I'd love to go on a walk with you and talk about who you are who God has made you to be and what are some habits and responses that you could put into life and lent is a wonderful chance to do that to step forward in faith. Take a new step towards God. Let us commit to doing that together. Let us do that as a church. Let us do that as individuals in the name of the Father and the son and the holy spirit. Amen.
