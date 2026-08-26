@@ -806,7 +806,7 @@ _361 sermons indexed._
 - **Matthew 25:14-29**
     - [[bee-creek-umc/2022/freedom-in-christ|Freedom in Christ]] · 2022-01-16
 - **Matthew 25:14-30**
-    - [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
+    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
     - [[covenant-umc/2023/do-or-do-not|Do Or Do Not]] · 2023-11-19
 - **Matthew 25:31-40**
     - [[covenant-umc/2023/growth|Growth]] · 2023-07-16
@@ -1016,7 +1016,7 @@ _361 sermons indexed._
 - **Mark 10:35-45**
     - [[covenant-umc/2024/the-cup|The Cup]] · 2024-10-20
 - **Mark 11:1-11**
-    - [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
+    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
     - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]] · 2021-03-28
     - Palm Sunday: From Hosanna to Passion · 2023-04-02
     - [[covenant-umc/2024/palm-sunday|Palm Sunday]] · 2024-03-24
@@ -1376,7 +1376,7 @@ _361 sermons indexed._
     - [[bee-creek-umc/2023/maundy-thursday|Maundy Thursday]] · 2023-04-06
     - [[covenant-umc/2024/maundy-thursday|Maundy Thursday]] · 2024-03-28
 - **John 13:36**
-    - [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
+    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
 - **John 14:1**
     - [[covenant-umc/2024/be-still|Be Still]] · 2024-06-24
 - **John 14:1-14**
@@ -1424,7 +1424,7 @@ _361 sermons indexed._
 - **John 16:12-15**
     - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
 - **John 16:7**
-    - [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
+    - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]] · 2018-03-25
     - [[covenant-umc/2024/ascension-sunday-mother-s-day-where-did-jesus-go|Ascension Sunday / Mother's Day: Where Did Jesus Go?]] · 2024-05-12
 - **John 17:1-11**
     - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]] · 2026-05-17

@@ -64,7 +64,7 @@ title: "Series Index"
 
 ## 2021  (56)
 - [[bee-creek-umc/2021/future-sermon-notes-on-thomas-and-prayer|Future Sermon Notes: On Thomas and Prayer]]
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2021/reset-your-house-2|Reset Your House]]
 - [[bee-creek-umc/2021/reset-your-house|Reset Your House]]
 - [[bee-creek-umc/2021/reset-your-body-2|Reset Your Body]]

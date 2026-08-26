@@ -22,9 +22,6 @@ title: "Sermons"
 
 ## By church and year
 
-### bee-creek-umc — 2018
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
-
 ### bee-creek-umc — 2020
 - [[bee-creek-umc/2020/god-s-love-a-deal-too-good-to-be-true|God's Love: A Deal Too Good to Be True]]
 - [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]]
@@ -81,6 +78,7 @@ title: "Sermons"
 - [[bee-creek-umc/2021/restless-with-the-past|Restless with the Past]]
 - [[bee-creek-umc/2021/restless-with-our-future|Restless with Our Future]]
 - [[bee-creek-umc/2021/us-and-them|Us and Them]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2021/palm-sunday|Palm Sunday]]
 - [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]]
 - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]

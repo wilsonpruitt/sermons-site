@@ -7,7 +7,7 @@ title: "Theme Index"
 _527 themes._
 
 ## discipleship  (28)
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2020/holding-the-faith-doing-what-you-say|Holding the Faith: Doing What You Say]]
 - [[bee-creek-umc/2020/not-to-us|Not to Us]]
 - [[bee-creek-umc/2020/the-race|The Race]]
@@ -720,7 +720,7 @@ _527 themes._
 - [[covenant-umc/2026/if-you-fall-down|If You Fall Down]]
 
 ## presence-of-god  (10)
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2020/animals-and-god-s-promise-children-s-message-the-true-light-already-shines|Animals and God's Promise (Children's Message): The True Light Already Shines]]
 - [[bee-creek-umc/2021/love-abides|Love Abides]]
 - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]]
@@ -958,7 +958,7 @@ _527 themes._
 
 ## communion-of-saints  (8)
 - A Service of Death and Resurrection (Funeral/Memorial Template)
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2020/saints-and-sinners|Saints and Sinners]]
 - [[bee-creek-umc/2021/the-wager-part-1|The Wager (Part 1)]]
 - [[bee-creek-umc/2023/i-believe-in-the-communion-of-the-saints|I Believe in the Communion of the Saints]]
@@ -1171,7 +1171,7 @@ _527 themes._
 - [[covenant-umc/2026/get-ready-for-something-big|Get Ready for Something Big]]
 
 ## facing-fear  (7)
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2021/christmas-eve-why-now|Christmas Eve: Why Now?]]
 - [[bee-creek-umc/2022/don-t-panic|Don't Panic]]
 - Elizabeth and Scott
@@ -1651,7 +1651,7 @@ _527 themes._
 - [[covenant-umc/2024/ash-wednesday|Ash Wednesday]]
 
 ## problem-of-evil  (5)
-- [[bee-creek-umc/2018/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
+- [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
 - [[bee-creek-umc/2021/evil|Evil]]
 - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]]
 - [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]]

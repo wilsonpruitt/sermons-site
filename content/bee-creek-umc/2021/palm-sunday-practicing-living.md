@@ -1,6 +1,6 @@
 ---
 title: "Palm Sunday: Practicing Living"
-date: 2018-03-25
+date: 2021-03-28
 church: bee-creek-umc
 series: "2021"
 tags:
@@ -21,7 +21,7 @@ description: "A Palm Sunday sermon on Mark's account of Jesus entering Jerusalem
 
 ---
 
-# Palm Sunday 2018
+# Palm Sunday 2021
 
 Palm Sunday Practice
 
