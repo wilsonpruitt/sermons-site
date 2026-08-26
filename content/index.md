@@ -9,10 +9,10 @@ title: "Sermons"
 - [[covenant-umc/2026/one-straw-revolution|One Straw Revolution]] (2026-07-12)
 - [[covenant-umc/2026/come-to-me-all-you-who-are-weary|Come to Me, All You Who Are Weary]] (2026-07-05)
 - [[covenant-umc/2026/ordinary-time|Ordinary Time]] (2026-06-28)
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]] (2026-06-21)
 - [[covenant-umc/2026/election-not-selection|Election, Not Selection]] (2026-06-14)
 - [[covenant-umc/2026/walking-along|Walking Along]] (2026-06-07)
 - [[covenant-umc/2026/three-whats|Three Whats?]] (2026-05-31)
+- [[covenant-umc/2026/a-burning-sensation-summit-fever-a-pentecost-sermon|A Burning Sensation (Summit Fever: A Pentecost Sermon)]] (2026-05-24)
 
 ## Indexes
 - [[indexes/Scripture Index|Scripture Index]]
@@ -83,13 +83,11 @@ title: "Sermons"
 - [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]]
 - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]
 - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]]
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
 - [[bee-creek-umc/2021/love-believes-all|Love Believes All]]
 - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins-2|Love Covers a Multitude of Sins]]
 - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]]
 - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]]
 - [[bee-creek-umc/2021/love-abides|Love Abides]]
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
 - [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]]
 - [[bee-creek-umc/2021/god-told-adam-and-eve|God Told Adam and Eve]]
 - [[bee-creek-umc/2021/big-boat|Big Boat]]
@@ -101,7 +99,6 @@ title: "Sermons"
 - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]]
 - [[bee-creek-umc/2021/when-you-re-lost-god-will-find-you|When You're Lost, God Will Find You]]
 - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]]
-- [[bee-creek-umc/2021/evil|Evil]]
 - [[bee-creek-umc/2021/come-and-see|Come and See]]
 - [[bee-creek-umc/2021/come-and-see-2|Come and See]]
 - [[bee-creek-umc/2021/fragments|Fragments]]
@@ -358,7 +355,6 @@ title: "Sermons"
 - [[covenant-umc/2026/three-whats|Three Whats?]]
 - [[covenant-umc/2026/walking-along|Walking Along]]
 - [[covenant-umc/2026/election-not-selection|Election, Not Selection]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
 - [[covenant-umc/2026/ordinary-time|Ordinary Time]]
 - [[covenant-umc/2026/come-to-me-all-you-who-are-weary|Come to Me, All You Who Are Weary]]
 - [[covenant-umc/2026/one-straw-revolution|One Straw Revolution]]

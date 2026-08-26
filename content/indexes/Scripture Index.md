@@ -59,7 +59,7 @@ _361 sermons indexed._
 - **Genesis 21:1-7**
     - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]] · 2021-06-20
 - **Genesis 21:17-21**
-    - [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]] · 2026-06-21
+    - Do Not Be Afraid: God Hears in the Wilderness · 2026-06-21
 - **Genesis 22**
     - [[covenant-umc/2026/the-lamb-of-god|The Lamb of God]] · 2026-01-18
 - **Genesis 24:34-38, 42-49, 58-67**
@@ -670,7 +670,7 @@ _361 sermons indexed._
 
 ## Matthew
 - **Matthew 10:26-31**
-    - [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]] · 2026-06-21
+    - Do Not Be Afraid: God Hears in the Wilderness · 2026-06-21
 - **Matthew 10:34-39**
     - [[bee-creek-umc/2021/the-prophecy|The Prophecy]] · 2021-12-05
 - **Matthew 10:40-42**
@@ -1262,7 +1262,7 @@ _361 sermons indexed._
 - **Luke 24:28-29**
     - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
 - **Luke 24:28-35**
-    - [[bee-creek-umc/2021/abide-with-me|Abide With Me]] · 2021-05-16
+    - Abide With Me · 2021-05-16
 - **Luke 24:30-31**
     - [[bee-creek-umc/2021/reset-your-body|Reset Your Body]] · 2021-01-10
 - **Luke 24:36-48**
@@ -1420,7 +1420,7 @@ _361 sermons indexed._
 - **John 15:4-5**
     - [[bee-creek-umc/2021/love-abides|Love Abides]] · 2021-05-16
 - **John 15:4-6**
-    - [[bee-creek-umc/2021/abide-with-me|Abide With Me]] · 2021-05-16
+    - Abide With Me · 2021-05-16
 - **John 16:12-15**
     - [[covenant-umc/2025/wisdom-s-call|Wisdom's Call]] · 2025-06-15
 - **John 16:7**
@@ -1718,7 +1718,7 @@ _361 sermons indexed._
 - **Romans 5:1**
     - [[covenant-umc/2025/justification|Justification]] · 2025-02-09
 - **Romans 5:17**
-    - [[bee-creek-umc/2021/evil|Evil]] · 2021-08-21
+    - Evil · 2021-08-21
 - **Romans 5:23**
     - [[covenant-umc/2024/the-opposite-of-hypocrisy|The Opposite of Hypocrisy]] · 2024-09-01
 - **Romans 5:8**
@@ -2007,7 +2007,7 @@ _361 sermons indexed._
 - **Colossians 1:11-20**
     - [[covenant-umc/2025/priest-prophet-king|Priest, Prophet, King]] · 2025-11-23
 - **Colossians 1:21-22**
-    - [[bee-creek-umc/2021/evil|Evil]] · 2021-08-21
+    - Evil · 2021-08-21
 - **Colossians 1:21-23**
     - [[covenant-umc/2025/sanctification|Sanctification]] · 2025-02-16
 - **Colossians 1:25**
@@ -2038,7 +2038,7 @@ _361 sermons indexed._
 
 ## 1 Timothy
 - **1 Timothy 2:5-6**
-    - [[bee-creek-umc/2021/evil|Evil]] · 2021-08-21
+    - Evil · 2021-08-21
 
 ## 2 Timothy
 - **2 Timothy 3:14-17**

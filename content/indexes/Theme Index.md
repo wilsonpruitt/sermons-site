@@ -192,7 +192,7 @@ _527 themes._
 
 ## holy-communion  (20)
 - A Service of Death and Resurrection (Funeral/Memorial Template)
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]]
 - [[bee-creek-umc/2021/do-this|Do this!]]
 - [[bee-creek-umc/2022/alpha-and-omega|Alpha and Omega]]
@@ -531,7 +531,7 @@ _527 themes._
 ## passion-of-christ  (12)
 - [[bee-creek-umc/2021/restless-with-our-future|Restless with Our Future]]
 - [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]]
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]]
 - Palm Sunday: From Hosanna to Passion
 - A Service of Death and Resurrection for Bruce Martin
@@ -599,7 +599,7 @@ _527 themes._
 - [[bee-creek-umc/2020/god-s-love-a-deal-too-good-to-be-true|God's Love: A Deal Too Good to Be True]]
 - [[bee-creek-umc/2021/jesus-likes-to-party|Jesus Likes to Party]]
 - [[bee-creek-umc/2021/when-you-re-lost-god-will-find-you|When You're Lost, God Will Find You]]
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[bee-creek-umc/2021/the-church-of-the-future|The Church of the Future]]
 - [[bee-creek-umc/2021/rivals|Rivals]]
 - [[bee-creek-umc/2022/i-believe-in-god-the-father-almighty-maker-of-heaven-and-earth|I Believe in God the Father Almighty, Maker of Heaven and Earth]]
@@ -805,7 +805,7 @@ _527 themes._
 
 ## atonement  (9)
 - [[bee-creek-umc/2020/sacrifice|Sacrifice]]
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[bee-creek-umc/2022/how-we-are-saved|How We Are Saved]]
 - [[bee-creek-umc/2022/food|Food]]
 - [[bee-creek-umc/2022/was-crucified-died-and-was-buried|Was Crucified, Died, and Was Buried]]
@@ -938,7 +938,7 @@ _527 themes._
 ## works-of-love  (9)
 - [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]]
 - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- Mal: Love writes a letter and sends it to Hate
 - Notes from the Pastor: Resetting Yourself with God in the New Year
 - [[bee-creek-umc/2022/palm-sunday|Palm Sunday]]
 - [[bee-creek-umc/2022/privilege|Privilege]]
@@ -1088,7 +1088,7 @@ _527 themes._
 
 ## resurrection-appearances  (8)
 - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2021/how-many-people-did-jesus-feed|How many people did Jesus feed?]]
 - [[bee-creek-umc/2021/tell-everyone-that-jesus-is-alive|Tell Everyone That Jesus is Alive]]
 - [[bee-creek-umc/2022/the-driver|The Driver]]
@@ -1135,7 +1135,7 @@ _527 themes._
 - [[covenant-umc/2026/broken-rod|Broken Rod]]
 
 ## bearing-fruit  (7)
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2023/ash-wednesday|Ash Wednesday]]
 - [[covenant-umc/2023/growth|Growth]]
 - [[covenant-umc/2023/fruitfulness|Fruitfulness]]
@@ -1159,7 +1159,7 @@ _527 themes._
 - [[covenant-umc/2024/waiting-on-a-miracle|Waiting on a Miracle]]
 - [[covenant-umc/2025/the-rescue|The Rescue]]
 - [[covenant-umc/2026/three-whats|Three Whats?]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## doers-not-hearers  (7)
 - [[bee-creek-umc/2020/holding-the-faith-doing-what-you-say|Holding the Faith: Doing What You Say]]
@@ -1177,7 +1177,7 @@ _527 themes._
 - Elizabeth and Scott
 - [[covenant-umc/2023/saying-yes-to-god|Saying Yes to God]]
 - [[covenant-umc/2024/be-opened|Be Opened]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## funeral-liturgy  (7)
 - A Service of Death and Resurrection (Funeral/Memorial Template)
@@ -1486,7 +1486,7 @@ _527 themes._
 - [[bee-creek-umc/2020/keeping-the-fire-of-love-burning|Keeping the Fire of Love Burning]]
 - [[bee-creek-umc/2020/learning-to-abide-the-means-of-grace|Learning to Abide: The Means of Grace]]
 - [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]]
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2021/love-abides|Love Abides]]
 
 ## antinomianism  (5)
@@ -1536,7 +1536,7 @@ _527 themes._
 - [[bee-creek-umc/2021/go-to-sleep-isaac|Go to Sleep, Isaac]]
 - [[covenant-umc/2023/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]]
 - [[covenant-umc/2026/election-not-selection|Election, Not Selection]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## creatio-ex-nihilo  (5)
 - [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]]
@@ -1652,7 +1652,7 @@ _527 themes._
 
 ## problem-of-evil  (5)
 - [[bee-creek-umc/2021/palm-sunday-practicing-living|Palm Sunday: Practicing Living]]
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[bee-creek-umc/2021/the-wager-part-2|The Wager (Part 2)]]
 - [[covenant-umc/2024/let-s-talk-about-the-devil|Let's Talk About the Devil]]
 - [[covenant-umc/2025/the-holy-innocents-and-the-problem-of-evil|The Holy Innocents and the Problem of Evil]]
@@ -1666,7 +1666,7 @@ _527 themes._
 
 ## reconciliation  (5)
 - [[bee-creek-umc/2020/sacrifice|Sacrifice]]
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[covenant-umc/2024/ash-wednesday|Ash Wednesday]]
 - [[covenant-umc/2025/sanctification|Sanctification]]
 - [[covenant-umc/2025/the-prodigal-son-and-the-ministry-of-reconciliation|The Prodigal Son and the Ministry of Reconciliation]]
@@ -1865,7 +1865,7 @@ _527 themes._
 - [[bee-creek-umc/2022/new-creation|New Creation]]
 - A Service of Death and Resurrection for David Bates
 - [[covenant-umc/2023/saying-yes-to-god|Saying Yes to God]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## gratitude-to-god  (4)
 - [[bee-creek-umc/2020/three-ways-of-saying-thank-you|Three Ways of Saying Thank You]]
@@ -2045,7 +2045,7 @@ _527 themes._
 - [[bee-creek-umc/2022/don-t-panic|Don't Panic]]
 - [[bee-creek-umc/2022/water|Water]]
 - [[covenant-umc/2026/give-me-water|Give Me Water]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## witness-and-martyrdom  (4)
 - [[bee-creek-umc/2020/advent-don-t-be-deceived|Advent: Don't Be Deceived]]
@@ -2250,7 +2250,7 @@ _527 themes._
 - [[covenant-umc/2025/trouble-in-river-city|Trouble in River City]]
 
 ## love-as-desire  (3)
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- Mal: Love writes a letter and sends it to Hate
 - [[covenant-umc/2024/trinity-sunday|Trinity Sunday]]
 - [[covenant-umc/2026/good-news-what-is-evangelism|Good News: What Is Evangelism?]]
 
@@ -2350,7 +2350,7 @@ _527 themes._
 - [[covenant-umc/2026/ash-wednesday|Ash Wednesday]]
 
 ## road-to-emmaus  (3)
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2022/the-driver|The Driver]]
 - [[covenant-umc/2026/what-s-next-builders-and-names|What's Next? (Builders and Names)]]
 
@@ -2397,7 +2397,7 @@ _527 themes._
 ## walking-in-the-light  (3)
 - [[bee-creek-umc/2020/keeping-the-fire-of-love-burning|Keeping the Fire of Love Burning]]
 - [[bee-creek-umc/2021/the-star|The Star]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 
 ## wealth-and-greed  (3)
 - [[covenant-umc/2024/eye-of-the-camel|Eye of the Camel]]
@@ -2590,7 +2590,7 @@ _527 themes._
 
 ## love-vs-hate  (2)
 - [[bee-creek-umc/2020/keeping-the-fire-of-love-burning|Keeping the Fire of Love Burning]]
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- Mal: Love writes a letter and sends it to Hate
 
 ## loyalty  (2)
 - [[bee-creek-umc/2020/love-of-god-love-of-neighbor|Love of God, Love of Neighbor]]
@@ -2816,7 +2816,7 @@ _527 themes._
 - [[covenant-umc/2026/come-to-me-all-you-who-are-weary|Come to Me, All You Who Are Weary]]
 
 ## christ-as-mediator  (1)
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 
 ## church-turned-outward  (1)
 - [[covenant-umc/2023/growth|Growth]]
@@ -3197,7 +3197,7 @@ _527 themes._
 - [[covenant-umc/2026/one-straw-revolution|One Straw Revolution]]
 
 ## unrequited-love  (1)
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- Mal: Love writes a letter and sends it to Hate
 
 ## unworthiness-before-beauty  (1)
 - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]]

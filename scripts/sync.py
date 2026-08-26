@@ -15,8 +15,25 @@ VAULT = os.path.expanduser("~/vault")
 SITE = os.path.expanduser("~/sermons-site")
 CONTENT = os.path.join(SITE, "content")
 MIN_WORDS = 100
+MIN_PROSE_WORDS = 60
+
+# Notes that are entirely borrowed source material (song lyrics, etc.) with
+# no scripture citation markup for the structural filter to catch and no
+# sermon prose at all. Hand-confirmed, not auto-detected.
+MANUAL_EXCLUDE = {
+    "ministry/bee-creek-umc/Sermons/2021/Easter 2021- Works of Love/Mal Love writes a letter and sends it to Hate.md",
+}
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
+CITATION_RE = re.compile(
+    r'^[⁠-⁤​﻿‎‏‹⁸]*'
+    r'[“"\'‘]?\s*[1-3]?\s*[A-Z][a-zA-Z ]+\s+\d+[:–—,\d\- ]*\s*'
+    r'(NRSVUE|NRSV|NIV|ESV|CEB|KJV|NASB)?[”"\'’]*[⁠-⁤​]*$'
+)
+URL_RE = re.compile(r'^https?://\S+$')
+
+def strip_invisible(line):
+    return re.sub(r'[⁠-⁤​﻿‎‏‹⁸]', '', line)
 
 def read_note(path):
     text = open(path, encoding="utf-8").read()
@@ -37,6 +54,24 @@ def slugify(s):
 def word_count(body):
     return len(re.findall(r"\S+", body))
 
+def prose_word_count(body):
+    """Word count excluding headings, citation lines, bare URLs, and any
+    paragraph that is itself a wrapped scripture quotation (starts with a
+    quote mark or asterisk and runs long). Distinguishes a real sermon from
+    a note that is just the lectionary readings with no reflection written in."""
+    total = 0
+    for line in body.split("\n"):
+        s = line.strip()
+        if not s or s.startswith("#"):
+            continue
+        clean = strip_invisible(s)
+        if CITATION_RE.match(clean) or URL_RE.match(clean):
+            continue
+        if clean.startswith(("*", '"', '“')) and len(clean) > 40:
+            continue
+        total += len(re.findall(r"\S+", clean))
+    return total
+
 def find_sermons():
     pattern = os.path.join(VAULT, "ministry", "*", "Sermons*", "**", "*.md")
     today = date.today()
@@ -44,6 +79,8 @@ def find_sermons():
     for path in glob.glob(pattern, recursive=True):
         fm, body = read_note(path)
         if fm.get("type") != "sermon":
+            continue
+        if os.path.relpath(path, VAULT) in MANUAL_EXCLUDE:
             continue
         d = fm.get("date")
         if isinstance(d, date):
@@ -59,6 +96,8 @@ def find_sermons():
             continue  # future lectionary stub
         if word_count(body) < MIN_WORDS:
             continue  # stub, no real content yet
+        if prose_word_count(body) < MIN_PROSE_WORDS:
+            continue  # nothing but the readings -- no sermon actually written
         found.append((path, fm, body, d))
     return found
 

@@ -6,7 +6,7 @@ title: "Series Index"
 
 ## (no series)  (13)
 - Congregant Notes (Sue, Emily, Jen, Nancy, Brenda, Michael, Rich, Jennifer)
-- [[bee-creek-umc/2021/evil|Evil]]
+- Evil
 - [[bee-creek-umc/2021/fragments|Fragments]]
 - [[covenant-umc/2024/arise-shine-the-light-of-epiphany-and-the-grafting-in-of-the-gentiles|Arise, Shine: The Light of Epiphany and the Grafting In of the Gentiles]]
 - [[covenant-umc/2024/the-baptism-of-the-lord|The Baptism of the Lord]]
@@ -83,12 +83,12 @@ title: "Series Index"
 - [[bee-creek-umc/2021/easter-sunrise-service|Easter Sunrise Service]]
 - [[bee-creek-umc/2021/easter-sunday-works-of-love|Easter Sunday: Works of Love]]
 - [[bee-creek-umc/2021/love-builds-up|Love Builds Up]]
-- [[bee-creek-umc/2021/mal-love-writes-a-letter-and-sends-it-to-hate|Mal: Love writes a letter and sends it to Hate]]
+- Mal: Love writes a letter and sends it to Hate
 - [[bee-creek-umc/2021/love-believes-all|Love Believes All]]
 - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins-2|Love Covers a Multitude of Sins]]
 - [[bee-creek-umc/2021/love-covers-a-multitude-of-sins|Love Covers a Multitude of Sins]]
 - [[bee-creek-umc/2021/love-does-not-seek-its-own|Love Does Not Seek Its Own]]
-- [[bee-creek-umc/2021/abide-with-me|Abide With Me]]
+- Abide With Me
 - [[bee-creek-umc/2021/love-abides|Love Abides]]
 - In the Beginning
 - [[bee-creek-umc/2021/trinity-sunday-in-the-beginning-song-of-creation|Trinity Sunday: In the Beginning (Song of Creation)]]
@@ -286,7 +286,7 @@ title: "Series Index"
 - [[covenant-umc/2026/three-whats|Three Whats?]]
 - [[covenant-umc/2026/walking-along|Walking Along]]
 - [[covenant-umc/2026/election-not-selection|Election, Not Selection]]
-- [[covenant-umc/2026/do-not-be-afraid-god-hears-in-the-wilderness|Do Not Be Afraid: God Hears in the Wilderness]]
+- Do Not Be Afraid: God Hears in the Wilderness
 - [[covenant-umc/2026/ordinary-time|Ordinary Time]]
 - Ordinary Time
 - Ordinary Time
