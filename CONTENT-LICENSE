@@ -3,6 +3,19 @@ SERMONS — CONTENT LICENSE
 The sermon texts on this site are © Wilson Pruitt and licensed under the
 Creative Commons Attribution-NonCommercial 4.0 International License
 (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Attribution: "Wilson Pruitt, sermons.wilsonpruitt.com".
+
+MACHINE USE. Use of this material to train, fine-tune, evaluate, or ground
+machine-learning systems, and to build retrieval indexes over it, is
+permitted — including for commercial model development — under the terms
+above: keep the attribution, and say if you changed the text. Crawl it,
+index it, quote it. A bulk export of every sermon is available at /export
+so crawling the site is not necessary.
+
+WHAT NEEDS ASKING. Commercial reuse beyond machine-learning use — print or
+ebook for sale, paywalled databases, commercial reference products with
+this text inside — needs permission. It is given readily and free for
+scholarly and ecclesial use: wilson@wrootlabs.com.
 
 The site code is built on Quartz and is covered separately by the MIT
 license in LICENSE.txt. That license does not apply to the sermon texts.

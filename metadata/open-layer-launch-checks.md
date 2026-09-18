@@ -93,11 +93,14 @@ pushed.
   `npx quartz build` directly rather than `npm run build` — that behavior predates
   this session and was left unchanged, just wrapped).
 - `vercel.json` — `buildCommand` updated to the same three-step chain.
-- `LICENSE-CONTENT.txt` — new. This repo's existing `LICENSE.txt` is Quartz's own
-  MIT license for the FRAMEWORK code (confirmed: copyright jackyzha0, standard MIT
-  text) — it does not cover the sermon content at all, and no separate content
-  license existed before this session. CC BY-NC 4.0 with a §2a Machine Use note,
-  same shape as the other CC BY-NC sites in this plan.
+- `CONTENT-LICENSE` — added a Machine Use paragraph and a "what needs asking"
+  paragraph. **Not a new file**: a prior session (2026-09-10, Opus 5, commit
+  `407f0b8`) had already added this file with the CC BY-NC 4.0 grant, discovered
+  only when `git push` was rejected as non-fast-forward and `git pull --rebase`
+  brought it in — this session's first draft duplicated it as `LICENSE-CONTENT.txt`
+  before the rebase surfaced the existing file; that duplicate was deleted and its
+  Machine Use content folded into `CONTENT-LICENSE` instead. `LICENSE.txt` remains
+  Quartz's own MIT license for the framework code, untouched.
 
 ## Decisions this rollout intentionally left alone (per PLAN.md §4's Sermons entry)
 
