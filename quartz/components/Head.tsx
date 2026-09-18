@@ -34,6 +34,30 @@ export default (() => {
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    // Reading-layer contract (~/open-corpus/PLAN.md §4, Sermons entry): a sermon
+    // is the "work" unit here, identified by the `sermon` tag every synced note
+    // carries (see scripts/sync.py's publish filter). JSON-LD is scoped to that
+    // tag rather than every page, same discipline as the other sites in the plan
+    // (crux/chapter pages only, not index/tag/search pages).
+    const tags = (fileData.frontmatter?.tags as string[] | undefined) ?? []
+    const isSermon = tags.includes("sermon")
+    const jsonLd = isSermon
+      ? {
+          "@context": "https://schema.org",
+          "@type": "CreativeWork",
+          "@id": socialUrl,
+          url: socialUrl,
+          name: fileData.frontmatter?.title,
+          author: { "@type": "Person", name: "Wilson Pruitt" },
+          datePublished: fileData.frontmatter?.date,
+          about: (fileData.frontmatter?.tags as string[] | undefined)
+            ?.filter((t) => t.startsWith("theme/"))
+            .map((t) => t.slice("theme/".length)),
+          isPartOf: { "@type": "Collection", "@id": `https://${cfg.baseUrl}/` },
+          license: "https://creativecommons.org/licenses/by-nc/4.0/",
+        }
+      : null
+
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
       (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
@@ -59,7 +83,13 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="robots" content="noindex, nofollow" />
+        <link rel="canonical" href={socialUrl} />
+        {jsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
+          />
+        )}
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />

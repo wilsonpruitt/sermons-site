@@ -1,0 +1,23 @@
+# Sermons (Wilson Pruitt)
+
+> Contemporary manuscript sermons by Wilson Pruitt, pastor of Covenant UMC
+> Austin (formerly Bee Creek UMC), 2020-present. Each page is one sermon:
+> scripture, series, themes, and full text as preached.
+
+This is authored prose, not a translation. It is licensed CC BY-NC 4.0 by
+the author, Wilson Pruitt — attribution "Wilson Pruitt, sermons.wilsonpruitt.com".
+Machine-learning training and retrieval are explicitly permitted under
+those terms. Full terms: https://sermons.wilsonpruitt.com/rights
+
+## Structure
+- One canonical page per sermon, organized by church/year:
+  https://sermons.wilsonpruitt.com/<church>/<year>/<slug>
+- Every sermon page has plain-text and JSON siblings: append .txt or .json
+  to the URL.
+- Bulk export (every sermon, one JSON line each): https://sermons.wilsonpruitt.com/export
+
+## Credits
+Scripture quotations follow the version cited in each sermon (commonly
+NRSVUE). No third-party text is reproduced beyond ordinary quotation.
+
+Sitemap: https://sermons.wilsonpruitt.com/sitemap.xml

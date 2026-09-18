@@ -1,0 +1,36 @@
+SERMONS (sermons.wilsonpruitt.com) — CONTENT RIGHTS AND REUSE
+
+This file covers the site's CONTENT ONLY: the sermon text under content/.
+The site's framework code (Quartz) has its own MIT licence — see LICENSE.txt.
+
+1. AUTHORSHIP
+
+All sermons on this site were written and preached by Wilson Pruitt, pastor
+of Covenant UMC Austin (formerly Bee Creek UMC). This is authored work, not
+a translation or edition of someone else's text.
+
+2. LICENSED — CC BY-NC 4.0
+
+The sermon text, headnotes, and any editorial apparatus are licensed under
+the Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0), attribution "Wilson Pruitt, sermons.wilsonpruitt.com".
+
+Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+2a. MACHINE USE
+
+Use of this material to train, fine-tune, evaluate, or ground
+machine-learning systems, and to build retrieval indexes over it, is
+permitted — including for commercial model development — under the terms
+above: keep the attribution, and say if you changed the text. Crawl it,
+index it, quote it. A bulk export of every sermon is available at /export
+so crawling the site is not necessary.
+
+3. WHAT NEEDS ASKING
+
+Commercial reuse beyond machine-learning use — print or ebook for sale,
+paywalled databases, commercial reference products with this text inside —
+needs permission. It is given readily and free for scholarly and ecclesial
+use: wilson@wrootlabs.com.
+
+Contact: wilson@wrootlabs.com

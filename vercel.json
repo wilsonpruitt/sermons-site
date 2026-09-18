@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx quartz build",
+  "buildCommand": "node scripts/build-export.mjs && npx quartz build && node scripts/build-siblings.mjs",
   "outputDirectory": "public",
   "installCommand": "npm install",
   "cleanUrls": true,

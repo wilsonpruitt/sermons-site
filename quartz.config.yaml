@@ -130,7 +130,7 @@ plugins:
   - source: "@quartz-community/content-index"
     enabled: true
     options:
-      enableSiteMap: false
+      enableSiteMap: true
       enableRSS: false
   - source: "@quartz-community/favicon"
     enabled: true
