@@ -125,9 +125,8 @@ const manifest = {
 };
 fs.writeFileSync(path.join(EXPORT_DIR, "manifest.json"), JSON.stringify(manifest, null, 2));
 
-// Placeholder — the shared wroot-corpus-export R2 bucket has not been
-// provisioned yet (~/open-corpus/PLAN.md item 8).
-const EXPORT_R2_BASE_URL = "https://pending-r2-bucket.example/sermons";
+// wroot-corpus-export R2 bucket, provisioned 2026-09-18 (~/open-corpus/PLAN.md item 8).
+const EXPORT_R2_BASE_URL = "https://pub-f3e5babb712240c981d8afc263f23ecf.r2.dev/sermons";
 
 const exportPage = `---
 title: "Export"
